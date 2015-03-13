@@ -1,4 +1,4 @@
-# FCA_RC
+# Formal concept analysis and Complex Network
 
 ## Extra information about the research usign FCA and Complex Network
 
