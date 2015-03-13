@@ -1,0 +1,3 @@
+"google uai terra";"yahoo" 
+"view.atdmt.com ad.doubleclick.net terra";"google" 
+"yahoo uai terra";"google" 

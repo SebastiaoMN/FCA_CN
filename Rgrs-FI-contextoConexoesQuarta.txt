@@ -1,0 +1,955 @@
+"ad.doubleclick.net ad.yieldmanager.com bn.uol.com.br globo";"google";0.016369049
+"ad.doubleclick.net ad.yieldmanager.com rad.msn globo gstatic";"orkut uai google view.atdmt.com yahoo";0.0014880953
+"ad.doubleclick.net ad.yieldmanager.com rad.msn google orkut";"gstatic";0.004464286
+"ad.doubleclick.net ad.yieldmanager.com rad.msn gstatic";"orkut google";0.004464286
+"ad.doubleclick.net ad.yieldmanager.com terra rad.msn";"yahoo";0.005952381
+"ad.doubleclick.net ad.yieldmanager.com uai terra";"google";0.013392857
+"ad.doubleclick.net ad.yieldmanager.com yahoo gstatic";"google";0.008928572
+"ad.doubleclick.net ad.yieldmanager.com yahoo orkut gstatic";"google";0.005952381
+"ad.doubleclick.net bn.uol.com.br ad.yieldmanager.com globo gstatic";"google yahoo";0.0029761905
+"ad.doubleclick.net bn.uol.com.br terra rad.msn";"yahoo";0.008928572
+"ad.doubleclick.net bn.uol.com.br uai globo gstatic";"google yahoo";0.0014880953
+"ad.doubleclick.net ceipmsn ad.yieldmanager.com globo";"google terra yahoo";0.004464286
+"ad.doubleclick.net ceipmsn ad.yieldmanager.com terra";"yahoo";0.011904762
+"ad.doubleclick.net ceipmsn bn.uol.com.br globo";"google";0.007440476
+"ad.doubleclick.net ceipmsn rad.msn google";"uai";0.005952381
+"ad.doubleclick.net ceipmsn rad.msn uai";"google";0.005952381
+"ad.doubleclick.net ceipmsn uai terra";"google";0.007440476
+"ad.doubleclick.net ceipmsn view.atdmt.com globo";"yahoo";0.004464286
+"ad.doubleclick.net globo ad.yieldmanager.com view.atdmt.com";"yahoo";0.013392857
+"ad.doubleclick.net globo orkut ad.yieldmanager.com gstatic";"google yahoo";0.004464286
+"ad.doubleclick.net globo uai ad.yieldmanager.com yahoo terra";"google";0.008928572
+"ad.doubleclick.net globo uai youtube";"google";0.005952381
+"ad.doubleclick.net google ad.yieldmanager.com bn.uol.com.br rad.msn";"yahoo";0.005952381
+"ad.doubleclick.net google orkut terra ad.yieldmanager.com";"yahoo";0.007440476
+"ad.doubleclick.net google view.atdmt.com terra ad.yieldmanager.com";"yahoo";0.008928572
+"ad.doubleclick.net gstatic uai";"google";0.014880952
+"ad.doubleclick.net orkut ad.yieldmanager.com terra google view.atdmt.com";"bn.uol.com.br yahoo";0.004464286
+"ad.doubleclick.net orkut ad.yieldmanager.com terra yahoo view.atdmt.com";"google bn.uol.com.br";0.004464286
+"ad.doubleclick.net orkut terra google globo";"yahoo";0.007440476
+"ad.doubleclick.net orkut uai bn.uol.com.br";"google yahoo";0.007440476
+"ad.doubleclick.net orkut uai view.atdmt.com";"google yahoo";0.008928572
+"ad.doubleclick.net orkut uai yahoo ad.yieldmanager.com";"google";0.007440476
+"ad.doubleclick.net orkut view.atdmt.com globo";"ad.yieldmanager.com yahoo";0.005952381
+"ad.doubleclick.net rad.msn globo orkut";"google yahoo";0.004464286
+"ad.doubleclick.net rad.msn terra globo";"google";0.008928572
+"ad.doubleclick.net rad.msn uai ad.yieldmanager.com gstatic";"orkut google view.atdmt.com yahoo";0.0029761905
+"ad.doubleclick.net rad.msn uai ad.yieldmanager.com orkut";"gstatic google view.atdmt.com yahoo";0.0029761905
+"ad.doubleclick.net rad.msn yahoo ad.yieldmanager.com gstatic";"orkut uai google view.atdmt.com";0.0029761905
+"ad.doubleclick.net rad.msn yahoo ad.yieldmanager.com orkut";"uai gstatic google view.atdmt.com";0.0029761905
+"ad.doubleclick.net terra bn.uol.com.br orkut";"google yahoo";0.008928572
+"ad.doubleclick.net terra uai ad.yieldmanager.com rad.msn";"globo google bn.uol.com.br yahoo";0.0029761905
+"ad.doubleclick.net terra uai rad.msn bn.uol.com.br";"google yahoo";0.005952381
+"ad.doubleclick.net terra uai rad.msn yahoo";"google bn.uol.com.br";0.005952381
+"ad.doubleclick.net terra view.atdmt.com orkut bn.uol.com.br";"google yahoo";0.005952381
+"ad.doubleclick.net terra view.atdmt.com orkut yahoo";"google bn.uol.com.br";0.005952381
+"ad.doubleclick.net uai orkut terra";"google yahoo";0.008928572
+"ad.doubleclick.net uai rad.msn globo gstatic";"orkut google view.atdmt.com ad.yieldmanager.com yahoo";0.0014880953
+"ad.doubleclick.net uai terra ad.yieldmanager.com yahoo";"google";0.011904762
+"ad.doubleclick.net view.atdmt.com ad.yieldmanager.com google orkut";"yahoo";0.007440476
+"ad.doubleclick.net view.atdmt.com ad.yieldmanager.com uai";"google yahoo";0.010416667
+"ad.doubleclick.net view.atdmt.com bn.uol.com.br uai";"google";0.011904762
+"ad.doubleclick.net view.atdmt.com ceipmsn uai";"google";0.004464286
+"ad.doubleclick.net view.atdmt.com yahoo youtube";"uai google";0.005952381
+"ad.doubleclick.net yahoo ceipmsn gstatic";"google terra";0.0029761905
+"ad.doubleclick.net yahoo globo uai youtube";"google";0.0029761905
+"ad.doubleclick.net yahoo rad.msn gstatic";"orkut google";0.005952381
+"ad.doubleclick.net yahoo rad.msn uai";"google";0.011904762
+"ad.doubleclick.net yahoo view.atdmt.com terra ad.yieldmanager.com";"google";0.008928572
+"ad.doubleclick.net youtube rad.msn";"uai google view.atdmt.com";0.004464286
+"ad.yieldmanager.com ad.doubleclick.net ceipmsn gstatic";"google terra yahoo";0.0014880953
+"ad.yieldmanager.com ad.doubleclick.net gstatic";"google";0.010416667
+"ad.yieldmanager.com ad.doubleclick.net orkut uai";"google";0.008928572
+"ad.yieldmanager.com ad.doubleclick.net oss-content.securestudies";"google terra yahoo";0.0029761905
+"ad.yieldmanager.com ad.doubleclick.net terra view.atdmt.com globo";"google yahoo";0.007440476
+"ad.yieldmanager.com ad.doubleclick.net view.atdmt.com bn.uol.com.br";"google yahoo";0.008928572
+"ad.yieldmanager.com bn.uol.com.br ad.doubleclick.net globo orkut";"google yahoo";0.004464286
+"ad.yieldmanager.com bn.uol.com.br globo uai terra";"google ad.doubleclick.net yahoo";0.005952381
+"ad.yieldmanager.com bn.uol.com.br gstatic globo";"google yahoo";0.005952381
+"ad.yieldmanager.com bn.uol.com.br gstatic view.atdmt.com";"google yahoo";0.007440476
+"ad.yieldmanager.com bn.uol.com.br gstatic";"yahoo";0.014880952
+"ad.yieldmanager.com bn.uol.com.br orkut globo";"google";0.011904762
+"ad.yieldmanager.com bn.uol.com.br orkut gstatic";"google yahoo";0.007440476
+"ad.yieldmanager.com bn.uol.com.br rad.msn";"yahoo";0.02232143
+"ad.yieldmanager.com bn.uol.com.br terra globo";"google yahoo";0.010416667
+"ad.yieldmanager.com bn.uol.com.br terra orkut";"google yahoo";0.007440476
+"ad.yieldmanager.com bn.uol.com.br uai orkut ad.doubleclick.net globo";"google terra view.atdmt.com yahoo";0.0014880953
+"ad.yieldmanager.com bn.uol.com.br uai orkut terra globo";"google ad.doubleclick.net view.atdmt.com yahoo";0.0014880953
+"ad.yieldmanager.com bn.uol.com.br uai youtube";"orkut google view.atdmt.com yahoo";0.0029761905
+"ad.yieldmanager.com bn.uol.com.br view.atdmt.com uai";"google";0.010416667
+"ad.yieldmanager.com ceipmsn globo gstatic";"orkut yahoo";0.0014880953
+"ad.yieldmanager.com ceipmsn globo rad.msn";"yahoo";0.0029761905
+"ad.yieldmanager.com ceipmsn view.atdmt.com terra";"globo google bn.uol.com.br yahoo";0.0029761905
+"ad.yieldmanager.com globo uai orkut youtube";"google yahoo";0.004464286
+"ad.yieldmanager.com globo uai youtube";"google yahoo";0.005952381
+"ad.yieldmanager.com google rad.msn ceipmsn ad.doubleclick.net";"globo uai terra view.atdmt.com bn.uol.com.br yahoo";0.0014880953
+"ad.yieldmanager.com google rad.msn ceipmsn bn.uol.com.br";"globo uai terra ad.doubleclick.net view.atdmt.com yahoo";0.0014880953
+"ad.yieldmanager.com google rad.msn ceipmsn globo";"uai terra ad.doubleclick.net view.atdmt.com bn.uol.com.br yahoo";0.0014880953
+"ad.yieldmanager.com google rad.msn ceipmsn terra";"globo uai ad.doubleclick.net view.atdmt.com bn.uol.com.br yahoo";0.0014880953
+"ad.yieldmanager.com google youtube ad.doubleclick.net";"yahoo";0.004464286
+"ad.yieldmanager.com gstatic youtube globo";"orkut google";0.0014880953
+"ad.yieldmanager.com orkut ceipmsn youtube";"globo uai google yahoo";0.0029761905
+"ad.yieldmanager.com orkut uai youtube";"google yahoo";0.007440476
+"ad.yieldmanager.com oss-content.securestudies";"google";0.005952381
+"ad.yieldmanager.com rad.msn youtube gstatic";"orkut google view.atdmt.com bn.uol.com.br yahoo";0.0029761905
+"ad.yieldmanager.com rad.msn youtube view.atdmt.com";"orkut gstatic google bn.uol.com.br yahoo";0.0029761905
+"ad.yieldmanager.com terra ceipmsn gstatic";"google ad.doubleclick.net yahoo";0.0014880953
+"ad.yieldmanager.com terra globo orkut google";"ad.doubleclick.net yahoo";0.004464286
+"ad.yieldmanager.com terra gstatic bn.uol.com.br";"globo orkut google ad.doubleclick.net view.atdmt.com yahoo";0.0014880953
+"ad.yieldmanager.com terra gstatic view.atdmt.com";"globo orkut google ad.doubleclick.net bn.uol.com.br yahoo";0.0014880953
+"ad.yieldmanager.com terra gstatic";"google ad.doubleclick.net yahoo";0.004464286
+"ad.yieldmanager.com uai ceipmsn ad.doubleclick.net bn.uol.com.br";"globo google terra rad.msn view.atdmt.com yahoo";0.0014880953
+"ad.yieldmanager.com uai ceipmsn ad.doubleclick.net globo";"google terra rad.msn view.atdmt.com bn.uol.com.br yahoo";0.0014880953
+"ad.yieldmanager.com uai ceipmsn youtube";"globo orkut google yahoo";0.0029761905
+"ad.yieldmanager.com uai rad.msn ceipmsn";"globo google terra ad.doubleclick.net view.atdmt.com bn.uol.com.br yahoo";0.0014880953
+"ad.yieldmanager.com uai terra view.atdmt.com globo";"google ad.doubleclick.net yahoo";0.004464286
+"ad.yieldmanager.com view.atdmt.com ceipmsn ad.doubleclick.net";"globo uai google terra rad.msn bn.uol.com.br yahoo";0.0014880953
+"ad.yieldmanager.com view.atdmt.com ceipmsn uai";"google yahoo";0.004464286
+"ad.yieldmanager.com view.atdmt.com globo rad.msn";"google yahoo";0.005952381
+"ad.yieldmanager.com view.atdmt.com globo terra";"google yahoo";0.008928572
+"ad.yieldmanager.com view.atdmt.com orkut globo bn.uol.com.br";"google yahoo";0.004464286
+"ad.yieldmanager.com view.atdmt.com orkut globo";"yahoo";0.008928572
+"ad.yieldmanager.com view.atdmt.com rad.msn bn.uol.com.br ceipmsn";"globo uai google terra ad.doubleclick.net yahoo";0.0014880953
+"ad.yieldmanager.com view.atdmt.com rad.msn ceipmsn globo";"uai google terra ad.doubleclick.net bn.uol.com.br yahoo";0.0014880953
+"ad.yieldmanager.com view.atdmt.com rad.msn ceipmsn yahoo";"globo uai google terra ad.doubleclick.net bn.uol.com.br";0.0014880953
+"ad.yieldmanager.com view.atdmt.com rad.msn google uai";"yahoo";0.007440476
+"ad.yieldmanager.com view.atdmt.com rad.msn gstatic bn.uol.com.br";"orkut google yahoo";0.004464286
+"ad.yieldmanager.com view.atdmt.com rad.msn terra";"globo uai google ad.doubleclick.net bn.uol.com.br ceipmsn yahoo";0.0014880953
+"ad.yieldmanager.com view.atdmt.com rad.msn yahoo uai";"google";0.007440476
+"ad.yieldmanager.com view.atdmt.com uai rad.msn bn.uol.com.br";"google ad.doubleclick.net yahoo";0.0029761905
+"ad.yieldmanager.com yahoo orkut uai";"google";0.020833334
+"ad.yieldmanager.com yahoo uai bn.uol.com.br orkut";"google";0.008928572
+"ad.yieldmanager.com yahoo view.atdmt.com uai";"google";0.020833334
+"ad.yieldmanager.com yahoo youtube ad.doubleclick.net";"google";0.004464286
+"ad.yieldmanager.com youtube bn.uol.com.br ceipmsn";"google view.atdmt.com yahoo";0.0029761905
+"ad.yieldmanager.com youtube globo view.atdmt.com";"uai google yahoo";0.004464286
+"ad.yieldmanager.com youtube uai";"google yahoo";0.008928572
+"bn.uol.com.br ad.doubleclick.net gstatic";"google";0.010416667
+"bn.uol.com.br ad.doubleclick.net oss-content.securestudies";"orkut google terra ad.yieldmanager.com yahoo";0.0014880953
+"bn.uol.com.br ad.doubleclick.net rad.msn uai";"google";0.011904762
+"bn.uol.com.br ad.doubleclick.net youtube terra";"orkut uai google view.atdmt.com yahoo";0.0014880953
+"bn.uol.com.br ad.doubleclick.net youtube";"orkut uai google view.atdmt.com yahoo";0.0029761905
+"bn.uol.com.br ad.yieldmanager.com gstatic ad.doubleclick.net view.atdmt.com";"orkut google yahoo";0.0029761905
+"bn.uol.com.br ad.yieldmanager.com gstatic ad.doubleclick.net";"google yahoo";0.004464286
+"bn.uol.com.br ad.yieldmanager.com gstatic google";"yahoo";0.013392857
+"bn.uol.com.br ad.yieldmanager.com orkut uai";"google";0.010416667
+"bn.uol.com.br ad.yieldmanager.com oss-content.securestudies";"orkut google terra ad.doubleclick.net yahoo";0.0014880953
+"bn.uol.com.br ad.yieldmanager.com terra view.atdmt.com globo";"google yahoo";0.005952381
+"bn.uol.com.br ad.yieldmanager.com terra view.atdmt.com";"google yahoo";0.007440476
+"bn.uol.com.br ad.yieldmanager.com uai globo gstatic";"google rad.msn yahoo";0.0014880953
+"bn.uol.com.br ad.yieldmanager.com uai globo view.atdmt.com";"google yahoo";0.005952381
+"bn.uol.com.br ad.yieldmanager.com uai gstatic";"google rad.msn yahoo";0.0029761905
+"bn.uol.com.br ad.yieldmanager.com uai rad.msn ad.doubleclick.net";"google yahoo";0.004464286
+"bn.uol.com.br ad.yieldmanager.com uai rad.msn orkut";"google yahoo";0.0029761905
+"bn.uol.com.br ad.yieldmanager.com uai view.atdmt.com globo ad.doubleclick.net";"google terra yahoo";0.0029761905
+"bn.uol.com.br ad.yieldmanager.com yahoo ad.doubleclick.net globo";"google";0.014880952
+"bn.uol.com.br ceipmsn ad.doubleclick.net gstatic";"uai google";0.0029761905
+"bn.uol.com.br ceipmsn gstatic view.atdmt.com";"google yahoo";0.0029761905
+"bn.uol.com.br ceipmsn rad.msn google";"uai";0.005952381
+"bn.uol.com.br ceipmsn rad.msn uai";"google";0.005952381
+"bn.uol.com.br ceipmsn terra ad.yieldmanager.com";"yahoo";0.005952381
+"bn.uol.com.br ceipmsn terra globo";"google";0.007440476
+"bn.uol.com.br ceipmsn terra gstatic";"uai google ad.doubleclick.net yahoo";0.0014880953
+"bn.uol.com.br ceipmsn uai terra";"google";0.005952381
+"bn.uol.com.br ceipmsn view.atdmt.com terra";"globo google ad.yieldmanager.com yahoo";0.0029761905
+"bn.uol.com.br ceipmsn yahoo ad.doubleclick.net gstatic";"uai google terra";0.0014880953
+"bn.uol.com.br globo ad.doubleclick.net ad.yieldmanager.com rad.msn";"uai google terra yahoo";0.0029761905
+"bn.uol.com.br globo ad.doubleclick.net ad.yieldmanager.com view.atdmt.com";"google terra yahoo";0.004464286
+"bn.uol.com.br globo ad.doubleclick.net terra view.atdmt.com";"google ad.yieldmanager.com yahoo";0.004464286
+"bn.uol.com.br globo ad.yieldmanager.com ceipmsn ad.doubleclick.net";"google terra yahoo";0.0029761905
+"bn.uol.com.br globo ad.yieldmanager.com ceipmsn";"google yahoo";0.007440476
+"bn.uol.com.br globo ad.yieldmanager.com terra ceipmsn";"google yahoo";0.004464286
+"bn.uol.com.br google ad.yieldmanager.com ceipmsn ad.doubleclick.net";"globo terra yahoo";0.0029761905
+"bn.uol.com.br google ad.yieldmanager.com terra ceipmsn";"globo yahoo";0.004464286
+"bn.uol.com.br google youtube terra";"orkut uai ad.doubleclick.net view.atdmt.com yahoo";0.0014880953
+"bn.uol.com.br gstatic ceipmsn ad.yieldmanager.com";"youtube google view.atdmt.com yahoo";0.0014880953
+"bn.uol.com.br gstatic ceipmsn globo";"orkut youtube google yahoo";0.0014880953
+"bn.uol.com.br gstatic ceipmsn orkut";"globo youtube google yahoo";0.0014880953
+"bn.uol.com.br gstatic ceipmsn rad.msn";"uai google";0.0029761905
+"bn.uol.com.br gstatic globo youtube";"orkut google ceipmsn yahoo";0.0014880953
+"bn.uol.com.br orkut ad.yieldmanager.com terra view.atdmt.com";"google ad.doubleclick.net yahoo";0.004464286
+"bn.uol.com.br orkut gstatic ad.doubleclick.net";"google view.atdmt.com ad.yieldmanager.com yahoo";0.0029761905
+"bn.uol.com.br orkut oss-content.securestudies";"google terra ad.doubleclick.net ad.yieldmanager.com yahoo";0.0014880953
+"bn.uol.com.br rad.msn globo gstatic";"uai google ad.yieldmanager.com yahoo";0.0014880953
+"bn.uol.com.br rad.msn google youtube";"orkut";0.005952381
+"bn.uol.com.br rad.msn orkut youtube";"google";0.005952381
+"bn.uol.com.br rad.msn youtube ad.yieldmanager.com";"orkut google yahoo";0.004464286
+"bn.uol.com.br rad.msn youtube yahoo";"orkut google ad.yieldmanager.com";0.004464286
+"bn.uol.com.br terra ad.yieldmanager.com google rad.msn";"globo uai ad.doubleclick.net yahoo";0.0029761905
+"bn.uol.com.br terra ad.yieldmanager.com uai rad.msn";"globo google ad.doubleclick.net yahoo";0.0029761905
+"bn.uol.com.br terra globo orkut";"google ad.doubleclick.net yahoo";0.004464286
+"bn.uol.com.br terra globo rad.msn";"google ad.doubleclick.net yahoo";0.005952381
+"bn.uol.com.br terra gstatic";"google ad.doubleclick.net yahoo";0.0029761905
+"bn.uol.com.br terra oss-content.securestudies";"orkut google ad.doubleclick.net ad.yieldmanager.com yahoo";0.0014880953
+"bn.uol.com.br terra uai view.atdmt.com globo";"google ad.doubleclick.net ad.yieldmanager.com yahoo";0.0029761905
+"bn.uol.com.br uai ceipmsn orkut";"globo google yahoo";0.004464286
+"bn.uol.com.br uai globo ceipmsn ad.yieldmanager.com";"google yahoo";0.004464286
+"bn.uol.com.br uai google ceipmsn ad.yieldmanager.com";"globo yahoo";0.004464286
+"bn.uol.com.br uai youtube terra";"orkut google ad.doubleclick.net view.atdmt.com yahoo";0.0014880953
+"bn.uol.com.br view.atdmt.com ad.doubleclick.net gstatic";"google";0.004464286
+"bn.uol.com.br view.atdmt.com ceipmsn rad.msn";"uai google yahoo";0.0029761905
+"bn.uol.com.br view.atdmt.com globo terra";"google yahoo";0.007440476
+"bn.uol.com.br view.atdmt.com globo";"google yahoo";0.016369049
+"bn.uol.com.br view.atdmt.com uai ceipmsn ad.yieldmanager.com";"globo google yahoo";0.0029761905
+"bn.uol.com.br view.atdmt.com youtube terra";"orkut uai google ad.doubleclick.net yahoo";0.0014880953
+"bn.uol.com.br yahoo ad.doubleclick.net gstatic";"google";0.007440476
+"bn.uol.com.br yahoo ceipmsn ad.doubleclick.net globo";"google";0.005952381
+"bn.uol.com.br yahoo ceipmsn gstatic";"google";0.005952381
+"bn.uol.com.br yahoo ceipmsn terra globo";"google";0.005952381
+"bn.uol.com.br yahoo gstatic ad.doubleclick.net view.atdmt.com";"orkut google ad.yieldmanager.com";0.0029761905
+"bn.uol.com.br yahoo rad.msn gstatic";"google";0.007440476
+"bn.uol.com.br yahoo rad.msn uai";"google";0.016369049
+"bn.uol.com.br yahoo view.atdmt.com gstatic";"google";0.010416667
+"bn.uol.com.br yahoo view.atdmt.com uai";"google";0.019345239
+"bn.uol.com.br yahoo youtube orkut";"google";0.011904762
+"bn.uol.com.br yahoo youtube terra";"orkut uai google ad.doubleclick.net view.atdmt.com";0.0014880953
+"ceipmsn ad.doubleclick.net gstatic";"google";0.004464286
+"ceipmsn ad.doubleclick.net orkut bn.uol.com.br";"globo uai google terra rad.msn yahoo";0.0014880953
+"ceipmsn ad.doubleclick.net orkut globo";"uai google terra rad.msn bn.uol.com.br yahoo";0.0014880953
+"ceipmsn ad.doubleclick.net orkut rad.msn";"globo uai google terra bn.uol.com.br yahoo";0.0014880953
+"ceipmsn ad.doubleclick.net orkut terra yahoo";"globo uai google rad.msn bn.uol.com.br";0.0014880953
+"ceipmsn ad.doubleclick.net orkut uai";"globo google terra rad.msn bn.uol.com.br yahoo";0.0014880953
+"ceipmsn ad.doubleclick.net oss-content.securestudies";"uai google terra ad.yieldmanager.com yahoo";0.0014880953
+"ceipmsn ad.doubleclick.net youtube";"google";0.0029761905
+"ceipmsn ad.yieldmanager.com bn.uol.com.br ad.doubleclick.net";"terra yahoo";0.004464286
+"ceipmsn ad.yieldmanager.com globo google";"yahoo";0.014880952
+"ceipmsn ad.yieldmanager.com globo orkut";"yahoo";0.008928572
+"ceipmsn ad.yieldmanager.com gstatic google";"yahoo";0.0029761905
+"ceipmsn ad.yieldmanager.com gstatic orkut";"yahoo";0.0029761905
+"ceipmsn ad.yieldmanager.com orkut bn.uol.com.br";"globo uai google yahoo";0.0029761905
+"ceipmsn ad.yieldmanager.com orkut rad.msn";"globo yahoo";0.0014880953
+"ceipmsn ad.yieldmanager.com oss-content.securestudies";"uai google terra ad.doubleclick.net yahoo";0.0014880953
+"ceipmsn ad.yieldmanager.com terra";"yahoo";0.014880952
+"ceipmsn ad.yieldmanager.com uai bn.uol.com.br";"yahoo";0.005952381
+"ceipmsn bn.uol.com.br orkut globo";"google yahoo";0.005952381
+"ceipmsn bn.uol.com.br orkut google view.atdmt.com";"yahoo";0.0029761905
+"ceipmsn bn.uol.com.br orkut yahoo view.atdmt.com";"google";0.0029761905
+"ceipmsn globo google view.atdmt.com orkut";"yahoo";0.0029761905
+"ceipmsn globo youtube orkut";"google yahoo";0.004464286
+"ceipmsn google yahoo oss-content.securestudies";"uai terra ad.doubleclick.net ad.yieldmanager.com";0.0014880953
+"ceipmsn gstatic globo";"orkut";0.004464286
+"ceipmsn gstatic uai";"google";0.005952381
+"ceipmsn orkut google globo";"yahoo";0.010416667
+"ceipmsn orkut view.atdmt.com globo";"yahoo";0.004464286
+"ceipmsn oss-content.securestudies uai";"google";0.0029761905
+"ceipmsn rad.msn gstatic orkut";"google view.atdmt.com";0.0014880953
+"ceipmsn rad.msn orkut bn.uol.com.br";"globo uai google terra ad.doubleclick.net yahoo";0.0014880953
+"ceipmsn rad.msn orkut terra";"globo uai google ad.doubleclick.net bn.uol.com.br yahoo";0.0014880953
+"ceipmsn rad.msn orkut uai";"globo google terra ad.doubleclick.net bn.uol.com.br yahoo";0.0014880953
+"ceipmsn rad.msn youtube";"ad.yieldmanager.com yahoo";0.0014880953
+"ceipmsn terra bn.uol.com.br orkut";"globo uai google rad.msn ad.doubleclick.net yahoo";0.0014880953
+"ceipmsn terra globo orkut";"uai google rad.msn ad.doubleclick.net bn.uol.com.br yahoo";0.0014880953
+"ceipmsn terra oss-content.securestudies";"uai google ad.doubleclick.net ad.yieldmanager.com yahoo";0.0014880953
+"ceipmsn terra uai orkut";"globo google rad.msn ad.doubleclick.net bn.uol.com.br yahoo";0.0014880953
+"ceipmsn uai globo bn.uol.com.br view.atdmt.com";"google yahoo";0.004464286
+"ceipmsn uai globo google view.atdmt.com";"bn.uol.com.br yahoo";0.004464286
+"ceipmsn view.atdmt.com bn.uol.com.br ad.doubleclick.net";"globo uai google yahoo";0.0029761905
+"ceipmsn view.atdmt.com google globo ad.doubleclick.net";"uai bn.uol.com.br yahoo";0.0029761905
+"ceipmsn view.atdmt.com uai globo ad.doubleclick.net";"google bn.uol.com.br yahoo";0.0029761905
+"ceipmsn view.atdmt.com uai yahoo ad.doubleclick.net";"globo google bn.uol.com.br";0.0029761905
+"ceipmsn yahoo terra globo";"google";0.007440476
+"ceipmsn yahoo youtube orkut";"globo google";0.004464286
+"globo ad.doubleclick.net ad.yieldmanager.com rad.msn";"uai google yahoo";0.004464286
+"globo ad.doubleclick.net orkut gstatic";"google yahoo";0.005952381
+"globo ad.doubleclick.net uai ad.yieldmanager.com view.atdmt.com";"google yahoo";0.007440476
+"globo ad.doubleclick.net uai view.atdmt.com bn.uol.com.br";"google yahoo";0.004464286
+"globo ad.yieldmanager.com bn.uol.com.br ad.doubleclick.net terra";"google yahoo";0.008928572
+"globo ad.yieldmanager.com bn.uol.com.br ad.doubleclick.net uai";"google yahoo";0.007440476
+"globo ad.yieldmanager.com ceipmsn";"yahoo";0.017857144
+"globo ad.yieldmanager.com view.atdmt.com google orkut";"yahoo";0.007440476
+"globo ad.yieldmanager.com view.atdmt.com uai";"google yahoo";0.013392857
+"globo ad.yieldmanager.com youtube bn.uol.com.br";"orkut uai google view.atdmt.com ceipmsn yahoo";0.0014880953
+"globo bn.uol.com.br ceipmsn youtube";"orkut google yahoo";0.0029761905
+"globo bn.uol.com.br google youtube";"orkut ceipmsn yahoo";0.0029761905
+"globo bn.uol.com.br view.atdmt.com orkut";"google yahoo";0.005952381
+"globo bn.uol.com.br yahoo youtube";"orkut google ceipmsn";0.0029761905
+"globo ceipmsn ad.doubleclick.net bn.uol.com.br terra";"google yahoo";0.004464286
+"globo ceipmsn ad.doubleclick.net rad.msn";"uai google terra bn.uol.com.br yahoo";0.0029761905
+"globo ceipmsn bn.uol.com.br rad.msn";"uai google terra ad.doubleclick.net yahoo";0.0029761905
+"globo ceipmsn terra rad.msn";"uai google ad.doubleclick.net bn.uol.com.br yahoo";0.0029761905
+"globo ceipmsn uai rad.msn";"google terra ad.doubleclick.net bn.uol.com.br yahoo";0.0029761905
+"globo ceipmsn uai terra ad.doubleclick.net";"google rad.msn bn.uol.com.br yahoo";0.0029761905
+"globo ceipmsn uai terra yahoo";"google rad.msn ad.doubleclick.net bn.uol.com.br";0.0029761905
+"globo ceipmsn view.atdmt.com terra";"google bn.uol.com.br ad.yieldmanager.com yahoo";0.0029761905
+"globo ceipmsn yahoo bn.uol.com.br uai ad.doubleclick.net";"google";0.004464286
+"globo gstatic bn.uol.com.br ad.doubleclick.net orkut";"google terra view.atdmt.com ad.yieldmanager.com yahoo";0.0014880953
+"globo gstatic bn.uol.com.br ad.doubleclick.net view.atdmt.com";"orkut google terra ad.yieldmanager.com yahoo";0.0014880953
+"globo gstatic bn.uol.com.br ad.yieldmanager.com orkut";"google terra ad.doubleclick.net view.atdmt.com yahoo";0.0014880953
+"globo gstatic bn.uol.com.br ad.yieldmanager.com view.atdmt.com";"orkut google terra ad.doubleclick.net yahoo";0.0014880953
+"globo gstatic bn.uol.com.br terra";"orkut google ad.doubleclick.net view.atdmt.com ad.yieldmanager.com yahoo";0.0014880953
+"globo gstatic ceipmsn yahoo";"orkut";0.0029761905
+"globo gstatic terra view.atdmt.com";"orkut google ad.doubleclick.net bn.uol.com.br ad.yieldmanager.com yahoo";0.0014880953
+"globo orkut bn.uol.com.br gstatic";"google yahoo";0.004464286
+"globo orkut rad.msn uai ad.yieldmanager.com";"google yahoo";0.0029761905
+"globo orkut rad.msn uai bn.uol.com.br yahoo";"google";0.0029761905
+"globo orkut uai gstatic";"google";0.004464286
+"globo orkut view.atdmt.com ad.yieldmanager.com youtube";"uai google yahoo";0.0029761905
+"globo orkut view.atdmt.com ceipmsn rad.msn";"google yahoo";0.0014880953
+"globo orkut view.atdmt.com google youtube";"uai ad.yieldmanager.com yahoo";0.0029761905
+"globo orkut view.atdmt.com uai youtube";"google ad.yieldmanager.com yahoo";0.0029761905
+"globo orkut view.atdmt.com yahoo youtube";"uai google ad.yieldmanager.com";0.0029761905
+"globo rad.msn ad.doubleclick.net";"google";0.011904762
+"globo rad.msn bn.uol.com.br ad.yieldmanager.com";"google yahoo";0.010416667
+"globo rad.msn view.atdmt.com ad.doubleclick.net";"uai google";0.004464286
+"globo terra ad.yieldmanager.com rad.msn ad.doubleclick.net";"uai google bn.uol.com.br yahoo";0.0029761905
+"globo terra ad.yieldmanager.com rad.msn bn.uol.com.br";"uai google ad.doubleclick.net yahoo";0.0029761905
+"globo terra ad.yieldmanager.com rad.msn google";"uai ad.doubleclick.net bn.uol.com.br yahoo";0.0029761905
+"globo terra ad.yieldmanager.com rad.msn uai";"google ad.doubleclick.net bn.uol.com.br yahoo";0.0029761905
+"globo terra ad.yieldmanager.com rad.msn yahoo";"uai google ad.doubleclick.net bn.uol.com.br";0.0029761905
+"globo terra gstatic";"orkut google ad.doubleclick.net yahoo";0.004464286
+"globo uai bn.uol.com.br ad.yieldmanager.com orkut";"google yahoo";0.005952381
+"globo uai bn.uol.com.br ad.yieldmanager.com";"yahoo";0.019345239
+"globo uai bn.uol.com.br terra ad.doubleclick.net";"google yahoo";0.007440476
+"globo uai ceipmsn youtube";"orkut google ad.yieldmanager.com yahoo";0.0029761905
+"globo uai google ceipmsn orkut";"yahoo";0.005952381
+"globo uai gstatic";"google";0.010416667
+"globo uai orkut yahoo ad.yieldmanager.com ad.doubleclick.net";"google";0.004464286
+"globo uai rad.msn ad.yieldmanager.com";"google yahoo";0.008928572
+"globo uai rad.msn yahoo ad.doubleclick.net";"google";0.007440476
+"globo uai rad.msn yahoo bn.uol.com.br";"google";0.010416667
+"globo uai rad.msn";"google";0.017857144
+"globo uai youtube terra";"google rad.msn ad.doubleclick.net view.atdmt.com";0.0014880953
+"globo view.atdmt.com ad.yieldmanager.com bn.uol.com.br";"google yahoo";0.011904762
+"globo view.atdmt.com bn.uol.com.br ad.doubleclick.net";"google yahoo";0.005952381
+"globo view.atdmt.com bn.uol.com.br ceipmsn";"google yahoo";0.005952381
+"globo view.atdmt.com bn.uol.com.br uai";"google yahoo";0.007440476
+"globo view.atdmt.com ceipmsn ad.yieldmanager.com";"google bn.uol.com.br yahoo";0.004464286
+"globo view.atdmt.com gstatic";"orkut google yahoo";0.005952381
+"globo view.atdmt.com orkut ad.doubleclick.net google";"ad.yieldmanager.com yahoo";0.004464286
+"globo view.atdmt.com uai ceipmsn ad.yieldmanager.com";"google bn.uol.com.br yahoo";0.0029761905
+"globo view.atdmt.com youtube bn.uol.com.br";"orkut uai google ad.yieldmanager.com ceipmsn yahoo";0.0014880953
+"globo view.atdmt.com youtube ceipmsn";"orkut uai google bn.uol.com.br ad.yieldmanager.com yahoo";0.0014880953
+"globo view.atdmt.com youtube terra";"uai google rad.msn ad.doubleclick.net";0.0014880953
+"globo youtube ad.doubleclick.net ad.yieldmanager.com";"google yahoo";0.0029761905
+"globo youtube ad.doubleclick.net yahoo";"google";0.004464286
+"globo youtube orkut ad.yieldmanager.com";"google";0.007440476
+"globo youtube terra";"google ad.doubleclick.net";0.0029761905
+"google ad.doubleclick.net ceipmsn ad.yieldmanager.com uai";"terra yahoo";0.0029761905
+"google ad.doubleclick.net ceipmsn view.atdmt.com rad.msn";"uai terra";0.0029761905
+"google ad.doubleclick.net terra oss-content.securestudies";"ad.yieldmanager.com yahoo";0.0029761905
+"google ad.yieldmanager.com rad.msn globo orkut";"yahoo";0.004464286
+"google ad.yieldmanager.com rad.msn globo";"yahoo";0.014880952
+"google ad.yieldmanager.com rad.msn terra";"yahoo";0.005952381
+"google ad.yieldmanager.com rad.msn uai";"yahoo";0.014880952
+"google ad.yieldmanager.com view.atdmt.com terra";"yahoo";0.011904762
+"google bn.uol.com.br rad.msn terra";"yahoo";0.008928572
+"google bn.uol.com.br view.atdmt.com terra";"yahoo";0.011904762
+"google bn.uol.com.br view.atdmt.com youtube";"yahoo";0.007440476
+"google ceipmsn bn.uol.com.br ad.doubleclick.net rad.msn";"uai";0.004464286
+"google ceipmsn rad.msn globo";"yahoo";0.004464286
+"google ceipmsn rad.msn orkut globo";"yahoo";0.0029761905
+"google ceipmsn rad.msn orkut yahoo";"globo";0.0029761905
+"google ceipmsn yahoo gstatic view.atdmt.com";"bn.uol.com.br";0.0029761905
+"google ceipmsn yahoo view.atdmt.com terra";"globo bn.uol.com.br ad.yieldmanager.com";0.0029761905
+"google globo uai ad.yieldmanager.com yahoo terra";"ad.doubleclick.net";0.008928572
+"google globo yahoo orkut ad.yieldmanager.com gstatic";"ad.doubleclick.net";0.004464286
+"google gstatic ceipmsn globo";"orkut youtube bn.uol.com.br yahoo";0.0014880953
+"google gstatic ceipmsn yahoo orkut";"globo youtube bn.uol.com.br";0.0014880953
+"google orkut terra ad.yieldmanager.com";"yahoo";0.013392857
+"google oss-content.securestudies bn.uol.com.br";"yahoo";0.0029761905
+"google rad.msn bn.uol.com.br ad.yieldmanager.com";"yahoo";0.019345239
+"google rad.msn bn.uol.com.br youtube view.atdmt.com";"orkut gstatic ad.yieldmanager.com yahoo";0.0029761905
+"google rad.msn youtube ad.yieldmanager.com";"orkut bn.uol.com.br yahoo";0.004464286
+"google terra ad.doubleclick.net bn.uol.com.br ceipmsn";"yahoo";0.005952381
+"google terra ceipmsn ad.yieldmanager.com";"yahoo";0.011904762
+"google terra orkut view.atdmt.com ad.yieldmanager.com";"yahoo";0.005952381
+"google terra rad.msn ceipmsn";"uai ad.doubleclick.net";0.004464286
+"google uai ad.yieldmanager.com bn.uol.com.br globo";"yahoo";0.017857144
+"google uai terra view.atdmt.com yahoo globo";"ad.doubleclick.net ad.yieldmanager.com";0.004464286
+"google view.atdmt.com rad.msn ceipmsn globo";"yahoo";0.0029761905
+"google yahoo ceipmsn bn.uol.com.br rad.msn";"uai";0.004464286
+"google yahoo ceipmsn uai rad.msn";"bn.uol.com.br";0.004464286
+"google youtube bn.uol.com.br ad.yieldmanager.com";"yahoo";0.011904762
+"google youtube bn.uol.com.br ceipmsn";"yahoo";0.004464286
+"google youtube ceipmsn ad.yieldmanager.com";"yahoo";0.005952381
+"gstatic ad.doubleclick.net ad.yieldmanager.com globo";"google yahoo";0.005952381
+"gstatic ad.doubleclick.net bn.uol.com.br globo";"google yahoo";0.004464286
+"gstatic ad.doubleclick.net bn.uol.com.br view.atdmt.com rad.msn";"uai google";0.0029761905
+"gstatic ad.doubleclick.net bn.uol.com.br view.atdmt.com uai";"google rad.msn";0.0029761905
+"gstatic ad.doubleclick.net globo";"google yahoo";0.010416667
+"gstatic ad.doubleclick.net terra rad.msn";"globo orkut google yahoo";0.0014880953
+"gstatic ad.yieldmanager.com rad.msn uai";"google yahoo";0.004464286
+"gstatic ad.yieldmanager.com rad.msn";"google";0.008928572
+"gstatic ad.yieldmanager.com youtube orkut";"google";0.007440476
+"gstatic bn.uol.com.br globo";"google";0.013392857
+"gstatic bn.uol.com.br view.atdmt.com uai";"google rad.msn";0.004464286
+"gstatic bn.uol.com.br yahoo globo";"google";0.011904762
+"gstatic ceipmsn ad.doubleclick.net rad.msn";"uai google bn.uol.com.br";0.0014880953
+"gstatic ceipmsn view.atdmt.com rad.msn bn.uol.com.br";"uai google yahoo";0.0014880953
+"gstatic ceipmsn view.atdmt.com rad.msn uai";"google bn.uol.com.br yahoo";0.0014880953
+"gstatic ceipmsn view.atdmt.com uai bn.uol.com.br";"google rad.msn yahoo";0.0014880953
+"gstatic ceipmsn view.atdmt.com uai yahoo";"google rad.msn bn.uol.com.br";0.0014880953
+"gstatic ceipmsn yahoo rad.msn";"uai google view.atdmt.com bn.uol.com.br";0.0014880953
+"gstatic ceipmsn youtube orkut";"google";0.0029761905
+"gstatic globo bn.uol.com.br view.atdmt.com";"orkut google yahoo";0.0029761905
+"gstatic globo terra rad.msn";"orkut google ad.doubleclick.net yahoo";0.0014880953
+"gstatic orkut terra rad.msn";"globo google ad.doubleclick.net yahoo";0.0014880953
+"gstatic oss-content.securestudies";"orkut yahoo";0.0014880953
+"gstatic rad.msn ad.doubleclick.net yahoo view.atdmt.com";"orkut uai google";0.004464286
+"gstatic rad.msn ad.doubleclick.net";"google";0.010416667
+"gstatic rad.msn bn.uol.com.br ad.doubleclick.net";"uai google";0.004464286
+"gstatic rad.msn bn.uol.com.br ad.yieldmanager.com";"google yahoo";0.005952381
+"gstatic rad.msn bn.uol.com.br youtube";"orkut google view.atdmt.com ad.yieldmanager.com yahoo";0.0029761905
+"gstatic rad.msn globo";"google";0.005952381
+"gstatic rad.msn youtube";"orkut google view.atdmt.com yahoo";0.004464286
+"gstatic terra ad.doubleclick.net";"google";0.010416667
+"gstatic terra ad.yieldmanager.com uai";"globo orkut google ad.doubleclick.net yahoo";0.0014880953
+"gstatic terra globo uai";"orkut google ad.doubleclick.net ad.yieldmanager.com yahoo";0.0014880953
+"gstatic uai ad.doubleclick.net yahoo rad.msn";"orkut google view.atdmt.com";0.004464286
+"gstatic uai ad.doubleclick.net yahoo view.atdmt.com";"orkut google rad.msn";0.004464286
+"gstatic uai ad.doubleclick.net youtube";"orkut google rad.msn view.atdmt.com yahoo";0.0029761905
+"gstatic view.atdmt.com uai youtube";"orkut google";0.004464286
+"gstatic yahoo ad.doubleclick.net youtube";"orkut uai google rad.msn view.atdmt.com";0.0029761905
+"gstatic yahoo bn.uol.com.br rad.msn uai";"google";0.004464286
+"gstatic yahoo globo rad.msn";"google";0.004464286
+"gstatic yahoo rad.msn";"google";0.013392857
+"gstatic yahoo terra";"google";0.010416667
+"gstatic yahoo uai youtube";"orkut google rad.msn ad.doubleclick.net view.atdmt.com";0.0029761905
+"gstatic yahoo view.atdmt.com uai";"google rad.msn";0.005952381
+"gstatic youtube bn.uol.com.br ad.yieldmanager.com";"google yahoo";0.005952381
+"gstatic youtube ceipmsn bn.uol.com.br";"google yahoo";0.0029761905
+"gstatic youtube ceipmsn yahoo";"google bn.uol.com.br";0.0029761905
+"orkut ad.doubleclick.net ad.yieldmanager.com ceipmsn";"google yahoo";0.0014880953
+"orkut ad.doubleclick.net bn.uol.com.br ad.yieldmanager.com";"google yahoo";0.008928572
+"orkut ad.doubleclick.net ceipmsn youtube";"google";0.0014880953
+"orkut ad.doubleclick.net oss-content.securestudies";"google terra bn.uol.com.br ad.yieldmanager.com yahoo";0.0014880953
+"orkut ad.doubleclick.net rad.msn bn.uol.com.br";"uai google yahoo";0.0029761905
+"orkut ad.doubleclick.net view.atdmt.com bn.uol.com.br";"google yahoo";0.007440476
+"orkut ad.doubleclick.net yahoo ceipmsn";"google";0.0029761905
+"orkut ad.yieldmanager.com ad.doubleclick.net bn.uol.com.br terra";"google yahoo";0.005952381
+"orkut ad.yieldmanager.com bn.uol.com.br ad.doubleclick.net view.atdmt.com";"google yahoo";0.005952381
+"orkut ad.yieldmanager.com bn.uol.com.br youtube ceipmsn";"globo uai google view.atdmt.com yahoo";0.0014880953
+"orkut ad.yieldmanager.com ceipmsn google";"yahoo";0.008928572
+"orkut ad.yieldmanager.com globo terra";"ad.doubleclick.net yahoo";0.005952381
+"orkut ad.yieldmanager.com oss-content.securestudies";"google terra ad.doubleclick.net bn.uol.com.br yahoo";0.0014880953
+"orkut ad.yieldmanager.com rad.msn globo ad.doubleclick.net";"uai gstatic google view.atdmt.com yahoo";0.0014880953
+"orkut ad.yieldmanager.com rad.msn globo gstatic";"uai google ad.doubleclick.net view.atdmt.com yahoo";0.0014880953
+"orkut ad.yieldmanager.com rad.msn globo view.atdmt.com";"uai gstatic google ad.doubleclick.net yahoo";0.0014880953
+"orkut ad.yieldmanager.com rad.msn globo";"yahoo";0.005952381
+"orkut ad.yieldmanager.com view.atdmt.com uai globo";"google yahoo";0.005952381
+"orkut bn.uol.com.br ad.yieldmanager.com rad.msn";"google yahoo";0.008928572
+"orkut bn.uol.com.br ad.yieldmanager.com youtube";"google yahoo";0.008928572
+"orkut bn.uol.com.br rad.msn uai";"google";0.007440476
+"orkut bn.uol.com.br rad.msn";"google";0.016369049
+"orkut bn.uol.com.br view.atdmt.com uai";"google";0.011904762
+"orkut bn.uol.com.br yahoo ad.doubleclick.net";"google";0.011904762
+"orkut bn.uol.com.br yahoo ceipmsn";"google";0.008928572
+"orkut bn.uol.com.br youtube ceipmsn";"globo google yahoo";0.0029761905
+"orkut bn.uol.com.br youtube globo";"google ceipmsn yahoo";0.0029761905
+"orkut bn.uol.com.br youtube";"google";0.013392857
+"orkut ceipmsn ad.doubleclick.net";"google";0.007440476
+"orkut ceipmsn rad.msn globo";"yahoo";0.004464286
+"orkut ceipmsn rad.msn yahoo";"globo";0.004464286
+"orkut globo bn.uol.com.br uai ad.doubleclick.net";"google terra yahoo";0.0029761905
+"orkut globo bn.uol.com.br uai terra";"google ad.doubleclick.net yahoo";0.0029761905
+"orkut globo ceipmsn ad.yieldmanager.com google";"yahoo";0.005952381
+"orkut globo rad.msn bn.uol.com.br ad.yieldmanager.com";"google yahoo";0.0029761905
+"orkut globo terra ad.yieldmanager.com uai";"google ad.doubleclick.net yahoo";0.0029761905
+"orkut google ad.doubleclick.net bn.uol.com.br globo";"yahoo";0.005952381
+"orkut google view.atdmt.com uai globo";"ad.yieldmanager.com yahoo";0.005952381
+"orkut gstatic ad.doubleclick.net ad.yieldmanager.com";"google";0.007440476
+"orkut gstatic ad.doubleclick.net view.atdmt.com";"google";0.007440476
+"orkut gstatic ad.doubleclick.net yahoo";"google";0.010416667
+"orkut gstatic rad.msn ad.doubleclick.net";"google";0.007440476
+"orkut gstatic rad.msn ad.yieldmanager.com";"google";0.007440476
+"orkut gstatic rad.msn bn.uol.com.br";"google view.atdmt.com ad.yieldmanager.com yahoo";0.004464286
+"orkut gstatic rad.msn view.atdmt.com";"google";0.008928572
+"orkut gstatic rad.msn yahoo";"google";0.008928572
+"orkut gstatic rad.msn";"google";0.013392857
+"orkut gstatic terra ad.doubleclick.net";"google";0.007440476
+"orkut gstatic terra google";"ad.doubleclick.net";0.007440476
+"orkut rad.msn bn.uol.com.br youtube view.atdmt.com";"gstatic google ad.yieldmanager.com yahoo";0.0029761905
+"orkut rad.msn terra ad.doubleclick.net";"globo google yahoo";0.0029761905
+"orkut rad.msn terra globo";"google ad.doubleclick.net yahoo";0.0029761905
+"orkut rad.msn terra google";"yahoo";0.005952381
+"orkut rad.msn terra yahoo";"google";0.005952381
+"orkut rad.msn uai ad.doubleclick.net globo";"google yahoo";0.0029761905
+"orkut rad.msn uai gstatic ad.yieldmanager.com";"google ad.doubleclick.net view.atdmt.com yahoo";0.0029761905
+"orkut rad.msn uai gstatic";"google ad.doubleclick.net view.atdmt.com yahoo";0.004464286
+"orkut rad.msn view.atdmt.com ad.doubleclick.net";"uai gstatic google yahoo";0.004464286
+"orkut rad.msn view.atdmt.com terra";"uai google bn.uol.com.br yahoo";0.0014880953
+"orkut rad.msn view.atdmt.com youtube";"gstatic google yahoo";0.004464286
+"orkut rad.msn youtube ad.yieldmanager.com";"google bn.uol.com.br yahoo";0.004464286
+"orkut terra ad.doubleclick.net ceipmsn";"google";0.0029761905
+"orkut terra ad.yieldmanager.com rad.msn";"uai google yahoo";0.0014880953
+"orkut terra bn.uol.com.br gstatic";"globo google ad.doubleclick.net view.atdmt.com ad.yieldmanager.com yahoo";0.0014880953
+"orkut terra bn.uol.com.br rad.msn";"uai google yahoo";0.0029761905
+"orkut terra bn.uol.com.br";"google yahoo";0.011904762
+"orkut terra ceipmsn yahoo";"google";0.0029761905
+"orkut terra oss-content.securestudies";"google ad.doubleclick.net bn.uol.com.br ad.yieldmanager.com yahoo";0.0014880953
+"orkut terra uai";"google yahoo";0.011904762
+"orkut terra view.atdmt.com yahoo";"google";0.008928572
+"orkut terra youtube";"google ad.doubleclick.net view.atdmt.com";0.0029761905
+"orkut uai bn.uol.com.br ad.yieldmanager.com ad.doubleclick.net";"google view.atdmt.com yahoo";0.004464286
+"orkut uai google rad.msn ad.yieldmanager.com";"yahoo";0.007440476
+"orkut uai gstatic ad.doubleclick.net view.atdmt.com";"google rad.msn yahoo";0.004464286
+"orkut uai gstatic yahoo view.atdmt.com";"google rad.msn ad.doubleclick.net";0.004464286
+"orkut uai rad.msn ad.doubleclick.net";"google yahoo";0.005952381
+"orkut uai rad.msn globo gstatic";"google ad.doubleclick.net view.atdmt.com ad.yieldmanager.com yahoo";0.0014880953
+"orkut uai rad.msn globo view.atdmt.com";"gstatic google ad.doubleclick.net ad.yieldmanager.com yahoo";0.0014880953
+"orkut uai rad.msn google view.atdmt.com";"yahoo";0.007440476
+"orkut uai rad.msn yahoo bn.uol.com.br";"google";0.005952381
+"orkut uai view.atdmt.com bn.uol.com.br ad.doubleclick.net";"google yahoo";0.005952381
+"orkut uai yahoo rad.msn ad.yieldmanager.com";"google";0.007440476
+"orkut view.atdmt.com ad.doubleclick.net youtube";"google";0.005952381
+"orkut view.atdmt.com bn.uol.com.br youtube ceipmsn";"globo uai google ad.yieldmanager.com yahoo";0.0014880953
+"orkut view.atdmt.com ceipmsn ad.yieldmanager.com";"globo youtube uai google bn.uol.com.br yahoo";0.0014880953
+"orkut view.atdmt.com ceipmsn bn.uol.com.br uai";"globo youtube google ad.yieldmanager.com yahoo";0.0014880953
+"orkut view.atdmt.com ceipmsn globo bn.uol.com.br";"youtube uai google ad.yieldmanager.com yahoo";0.0014880953
+"orkut view.atdmt.com ceipmsn globo uai google";"youtube bn.uol.com.br ad.yieldmanager.com yahoo";0.0014880953
+"orkut view.atdmt.com ceipmsn yahoo uai google";"globo youtube bn.uol.com.br ad.yieldmanager.com";0.0014880953
+"orkut view.atdmt.com ceipmsn yahoo youtube";"globo uai google bn.uol.com.br ad.yieldmanager.com";0.0014880953
+"orkut view.atdmt.com google globo";"yahoo";0.013392857
+"orkut view.atdmt.com gstatic ad.yieldmanager.com youtube";"google rad.msn bn.uol.com.br yahoo";0.0029761905
+"orkut view.atdmt.com gstatic bn.uol.com.br youtube";"google rad.msn ad.yieldmanager.com yahoo";0.0029761905
+"orkut view.atdmt.com rad.msn ad.yieldmanager.com bn.uol.com.br";"gstatic google yahoo";0.004464286
+"orkut view.atdmt.com rad.msn globo";"yahoo";0.004464286
+"orkut view.atdmt.com uai globo ad.doubleclick.net";"google ad.yieldmanager.com yahoo";0.0029761905
+"orkut yahoo ad.doubleclick.net bn.uol.com.br globo";"google";0.005952381
+"orkut youtube ad.doubleclick.net uai";"google view.atdmt.com yahoo";0.004464286
+"orkut youtube ad.doubleclick.net yahoo";"uai google view.atdmt.com";0.004464286
+"orkut youtube gstatic globo";"google";0.005952381
+"orkut youtube terra bn.uol.com.br";"uai google ad.doubleclick.net view.atdmt.com yahoo";0.0014880953
+"orkut youtube terra uai";"google ad.doubleclick.net view.atdmt.com bn.uol.com.br yahoo";0.0014880953
+"orkut youtube terra yahoo";"uai google ad.doubleclick.net view.atdmt.com bn.uol.com.br";0.0014880953
+"orkut youtube uai globo";"google";0.005952381
+"oss-content.securestudies ad.yieldmanager.com terra";"google";0.004464286
+"oss-content.securestudies bn.uol.com.br globo";"rad.msn";0.0014880953
+"oss-content.securestudies google terra";"ad.yieldmanager.com";0.004464286
+"oss-content.securestudies rad.msn bn.uol.com.br";"globo";0.0014880953
+"oss-content.securestudies rad.msn globo";"bn.uol.com.br";0.0014880953
+"oss-content.securestudies rad.msn view.atdmt.com";"google";0.0014880953
+"oss-content.securestudies uai bn.uol.com.br";"google yahoo";0.0014880953
+"oss-content.securestudies uai view.atdmt.com";"google yahoo";0.0014880953
+"oss-content.securestudies yahoo ad.yieldmanager.com";"google";0.004464286
+"oss-content.securestudies yahoo view.atdmt.com";"uai google";0.0014880953
+"rad.msn ad.doubleclick.net ad.yieldmanager.com bn.uol.com.br gstatic";"orkut youtube uai google view.atdmt.com yahoo";0.0014880953
+"rad.msn ad.doubleclick.net ad.yieldmanager.com bn.uol.com.br orkut";"youtube uai gstatic google view.atdmt.com yahoo";0.0014880953
+"rad.msn ad.doubleclick.net bn.uol.com.br ad.yieldmanager.com";"yahoo";0.007440476
+"rad.msn ad.doubleclick.net bn.uol.com.br gstatic orkut";"youtube uai google view.atdmt.com ad.yieldmanager.com yahoo";0.0014880953
+"rad.msn ad.doubleclick.net bn.uol.com.br gstatic yahoo";"orkut youtube uai google view.atdmt.com ad.yieldmanager.com";0.0014880953
+"rad.msn ad.doubleclick.net bn.uol.com.br view.atdmt.com orkut";"youtube uai gstatic google ad.yieldmanager.com yahoo";0.0014880953
+"rad.msn ad.doubleclick.net globo gstatic";"orkut google yahoo";0.0029761905
+"rad.msn ad.doubleclick.net gstatic youtube";"orkut uai google view.atdmt.com yahoo";0.0029761905
+"rad.msn ad.doubleclick.net orkut youtube";"uai gstatic google view.atdmt.com yahoo";0.0029761905
+"rad.msn ad.doubleclick.net view.atdmt.com bn.uol.com.br globo";"uai google terra ad.yieldmanager.com ceipmsn yahoo";0.0014880953
+"rad.msn ad.doubleclick.net view.atdmt.com bn.uol.com.br terra";"globo uai google ad.yieldmanager.com ceipmsn yahoo";0.0014880953
+"rad.msn ad.doubleclick.net view.atdmt.com ceipmsn bn.uol.com.br";"globo uai google terra ad.yieldmanager.com yahoo";0.0014880953
+"rad.msn ad.doubleclick.net view.atdmt.com ceipmsn globo";"uai google terra bn.uol.com.br ad.yieldmanager.com yahoo";0.0014880953
+"rad.msn ad.doubleclick.net view.atdmt.com ceipmsn yahoo";"globo uai google terra bn.uol.com.br ad.yieldmanager.com";0.0014880953
+"rad.msn ad.doubleclick.net view.atdmt.com yahoo terra";"globo uai google bn.uol.com.br ad.yieldmanager.com ceipmsn";0.0014880953
+"rad.msn ad.doubleclick.net yahoo globo terra";"google";0.007440476
+"rad.msn ad.doubleclick.net yahoo view.atdmt.com";"google";0.008928572
+"rad.msn ad.doubleclick.net yahoo youtube";"orkut uai gstatic google view.atdmt.com";0.0029761905
+"rad.msn ad.yieldmanager.com ceipmsn ad.doubleclick.net";"terra bn.uol.com.br yahoo";0.0029761905
+"rad.msn ad.yieldmanager.com ceipmsn bn.uol.com.br";"terra ad.doubleclick.net yahoo";0.0029761905
+"rad.msn ad.yieldmanager.com ceipmsn terra";"ad.doubleclick.net bn.uol.com.br yahoo";0.0029761905
+"rad.msn ad.yieldmanager.com view.atdmt.com ad.doubleclick.net bn.uol.com.br";"google yahoo";0.004464286
+"rad.msn ad.yieldmanager.com view.atdmt.com google orkut";"yahoo";0.007440476
+"rad.msn ad.yieldmanager.com view.atdmt.com yahoo orkut";"google";0.007440476
+"rad.msn ad.yieldmanager.com yahoo gstatic";"google";0.007440476
+"rad.msn ad.yieldmanager.com youtube";"yahoo";0.005952381
+"rad.msn bn.uol.com.br globo orkut ad.doubleclick.net";"uai google terra ceipmsn yahoo";0.0014880953
+"rad.msn bn.uol.com.br globo orkut terra";"uai google ad.doubleclick.net ceipmsn yahoo";0.0014880953
+"rad.msn bn.uol.com.br orkut globo";"google";0.005952381
+"rad.msn bn.uol.com.br terra ceipmsn";"ad.doubleclick.net yahoo";0.004464286
+"rad.msn bn.uol.com.br terra orkut ad.doubleclick.net";"globo uai google ceipmsn yahoo";0.0014880953
+"rad.msn bn.uol.com.br view.atdmt.com orkut";"google yahoo";0.005952381
+"rad.msn bn.uol.com.br yahoo globo orkut";"google";0.004464286
+"rad.msn bn.uol.com.br yahoo orkut";"google";0.013392857
+"rad.msn globo ad.doubleclick.net ad.yieldmanager.com ceipmsn";"uai google terra view.atdmt.com bn.uol.com.br yahoo";0.0014880953
+"rad.msn globo bn.uol.com.br ad.doubleclick.net";"google yahoo";0.007440476
+"rad.msn globo bn.uol.com.br ad.yieldmanager.com ceipmsn";"uai google terra ad.doubleclick.net view.atdmt.com yahoo";0.0014880953
+"rad.msn globo terra ad.yieldmanager.com ceipmsn";"uai google ad.doubleclick.net view.atdmt.com bn.uol.com.br yahoo";0.0014880953
+"rad.msn globo view.atdmt.com bn.uol.com.br ceipmsn";"uai google terra ad.doubleclick.net ad.yieldmanager.com yahoo";0.0014880953
+"rad.msn globo view.atdmt.com bn.uol.com.br terra";"uai google ad.doubleclick.net ad.yieldmanager.com ceipmsn yahoo";0.0014880953
+"rad.msn globo view.atdmt.com bn.uol.com.br uai";"google terra ad.doubleclick.net ad.yieldmanager.com ceipmsn yahoo";0.0014880953
+"rad.msn globo view.atdmt.com ceipmsn uai";"google terra ad.doubleclick.net bn.uol.com.br ad.yieldmanager.com yahoo";0.0014880953
+"rad.msn globo view.atdmt.com yahoo terra";"uai google ad.doubleclick.net bn.uol.com.br ad.yieldmanager.com ceipmsn";0.0014880953
+"rad.msn google view.atdmt.com globo orkut";"yahoo";0.0029761905
+"rad.msn gstatic globo ad.yieldmanager.com";"uai google yahoo";0.0029761905
+"rad.msn gstatic globo uai";"google ad.yieldmanager.com yahoo";0.0029761905
+"rad.msn gstatic uai";"google";0.010416667
+"rad.msn gstatic view.atdmt.com ad.doubleclick.net";"uai google";0.005952381
+"rad.msn gstatic view.atdmt.com yahoo bn.uol.com.br";"google";0.005952381
+"rad.msn orkut globo gstatic";"google ad.doubleclick.net yahoo";0.0029761905
+"rad.msn orkut globo uai ad.yieldmanager.com bn.uol.com.br";"google yahoo";0.0014880953
+"rad.msn terra bn.uol.com.br ad.yieldmanager.com";"ad.doubleclick.net yahoo";0.004464286
+"rad.msn terra gstatic";"google yahoo";0.0029761905
+"rad.msn terra uai bn.uol.com.br globo";"google ad.doubleclick.net yahoo";0.004464286
+"rad.msn terra uai yahoo globo";"google ad.doubleclick.net bn.uol.com.br";0.004464286
+"rad.msn uai globo orkut terra";"google ad.doubleclick.net bn.uol.com.br ceipmsn yahoo";0.0014880953
+"rad.msn uai gstatic youtube";"orkut google ad.doubleclick.net view.atdmt.com yahoo";0.0029761905
+"rad.msn uai orkut terra";"google yahoo";0.004464286
+"rad.msn uai orkut youtube";"gstatic google ad.doubleclick.net view.atdmt.com yahoo";0.0029761905
+"rad.msn uai terra orkut ad.doubleclick.net";"globo google bn.uol.com.br ceipmsn yahoo";0.0014880953
+"rad.msn uai yahoo youtube";"orkut gstatic google ad.doubleclick.net view.atdmt.com";0.0029761905
+"rad.msn view.atdmt.com ad.yieldmanager.com ad.doubleclick.net globo";"uai google yahoo";0.0029761905
+"rad.msn view.atdmt.com ad.yieldmanager.com uai globo";"google ad.doubleclick.net yahoo";0.0029761905
+"rad.msn view.atdmt.com terra bn.uol.com.br";"yahoo";0.004464286
+"rad.msn view.atdmt.com terra yahoo";"bn.uol.com.br";0.004464286
+"rad.msn view.atdmt.com yahoo ad.doubleclick.net globo";"uai google ad.yieldmanager.com";0.0029761905
+"rad.msn view.atdmt.com yahoo uai globo";"google ad.doubleclick.net ad.yieldmanager.com";0.0029761905
+"rad.msn yahoo ad.doubleclick.net ceipmsn";"terra bn.uol.com.br";0.004464286
+"rad.msn yahoo ad.doubleclick.net orkut";"google";0.008928572
+"rad.msn yahoo bn.uol.com.br globo";"google";0.014880952
+"rad.msn yahoo google youtube";"orkut";0.005952381
+"rad.msn yahoo orkut youtube";"google";0.005952381
+"rad.msn yahoo terra ceipmsn";"ad.doubleclick.net bn.uol.com.br";0.004464286
+"rad.msn yahoo terra globo";"google";0.008928572
+"rad.msn yahoo view.atdmt.com ad.doubleclick.net bn.uol.com.br";"google ad.yieldmanager.com";0.004464286
+"rad.msn youtube globo";"uai google terra ad.doubleclick.net view.atdmt.com";0.0014880953
+"rad.msn youtube terra";"globo uai google ad.doubleclick.net view.atdmt.com";0.0014880953
+"terra ad.doubleclick.net ceipmsn view.atdmt.com";"uai google rad.msn";0.0029761905
+"terra ad.doubleclick.net view.atdmt.com bn.uol.com.br";"google yahoo";0.007440476
+"terra ad.yieldmanager.com ceipmsn globo";"google yahoo";0.005952381
+"terra ad.yieldmanager.com view.atdmt.com uai";"google ad.doubleclick.net yahoo";0.005952381
+"terra ceipmsn ad.doubleclick.net globo";"google yahoo";0.005952381
+"terra ceipmsn ad.yieldmanager.com uai";"google ad.doubleclick.net yahoo";0.0029761905
+"terra ceipmsn bn.uol.com.br ad.doubleclick.net";"yahoo";0.007440476
+"terra ceipmsn gstatic";"google ad.doubleclick.net yahoo";0.0029761905
+"terra ceipmsn uai ad.yieldmanager.com bn.uol.com.br";"globo google rad.msn ad.doubleclick.net view.atdmt.com yahoo";0.0014880953
+"terra ceipmsn uai ad.yieldmanager.com globo";"google rad.msn ad.doubleclick.net view.atdmt.com bn.uol.com.br yahoo";0.0014880953
+"terra ceipmsn uai ad.yieldmanager.com view.atdmt.com";"globo google rad.msn ad.doubleclick.net bn.uol.com.br yahoo";0.0014880953
+"terra ceipmsn uai view.atdmt.com bn.uol.com.br";"globo google rad.msn ad.doubleclick.net ad.yieldmanager.com yahoo";0.0014880953
+"terra ceipmsn uai view.atdmt.com globo";"google rad.msn ad.doubleclick.net bn.uol.com.br ad.yieldmanager.com yahoo";0.0014880953
+"terra ceipmsn uai view.atdmt.com yahoo";"globo google rad.msn ad.doubleclick.net bn.uol.com.br ad.yieldmanager.com";0.0014880953
+"terra ceipmsn view.atdmt.com ad.doubleclick.net bn.uol.com.br";"globo uai google rad.msn ad.yieldmanager.com yahoo";0.0014880953
+"terra ceipmsn view.atdmt.com ad.doubleclick.net globo";"uai google rad.msn bn.uol.com.br ad.yieldmanager.com yahoo";0.0014880953
+"terra ceipmsn view.atdmt.com ad.doubleclick.net yahoo";"globo uai google rad.msn bn.uol.com.br ad.yieldmanager.com";0.0014880953
+"terra ceipmsn view.atdmt.com rad.msn bn.uol.com.br";"globo uai google ad.doubleclick.net ad.yieldmanager.com yahoo";0.0014880953
+"terra ceipmsn view.atdmt.com rad.msn globo";"uai google ad.doubleclick.net bn.uol.com.br ad.yieldmanager.com yahoo";0.0014880953
+"terra ceipmsn view.atdmt.com rad.msn yahoo";"globo uai google ad.doubleclick.net bn.uol.com.br ad.yieldmanager.com";0.0014880953
+"terra globo gstatic ad.yieldmanager.com";"orkut google ad.doubleclick.net yahoo";0.0029761905
+"terra globo orkut bn.uol.com.br ad.yieldmanager.com";"google ad.doubleclick.net view.atdmt.com yahoo";0.0029761905
+"terra globo orkut view.atdmt.com";"google ad.doubleclick.net bn.uol.com.br ad.yieldmanager.com yahoo";0.0029761905
+"terra globo rad.msn view.atdmt.com";"uai google ad.doubleclick.net";0.0029761905
+"terra google ad.doubleclick.net ad.yieldmanager.com ceipmsn";"yahoo";0.008928572
+"terra google ad.doubleclick.net ad.yieldmanager.com rad.msn";"yahoo";0.004464286
+"terra google ad.doubleclick.net bn.uol.com.br rad.msn";"yahoo";0.007440476
+"terra orkut gstatic ad.yieldmanager.com";"globo google ad.doubleclick.net yahoo";0.0029761905
+"terra orkut uai ad.yieldmanager.com ad.doubleclick.net";"google yahoo";0.004464286
+"terra orkut uai bn.uol.com.br ad.doubleclick.net";"google yahoo";0.005952381
+"terra orkut view.atdmt.com bn.uol.com.br";"google yahoo";0.007440476
+"terra rad.msn ceipmsn google bn.uol.com.br";"globo uai ad.doubleclick.net yahoo";0.0029761905
+"terra rad.msn ceipmsn google yahoo";"globo uai ad.doubleclick.net bn.uol.com.br";0.0029761905
+"terra rad.msn ceipmsn uai bn.uol.com.br";"globo google ad.doubleclick.net yahoo";0.0029761905
+"terra rad.msn ceipmsn uai yahoo";"globo google ad.doubleclick.net bn.uol.com.br";0.0029761905
+"terra rad.msn ceipmsn view.atdmt.com";"uai google ad.doubleclick.net";0.0029761905
+"terra rad.msn ceipmsn";"ad.doubleclick.net";0.005952381
+"terra rad.msn uai";"google";0.011904762
+"terra rad.msn view.atdmt.com ad.doubleclick.net";"uai google";0.004464286
+"terra uai ceipmsn view.atdmt.com";"google rad.msn ad.doubleclick.net";0.0029761905
+"terra uai rad.msn ad.doubleclick.net";"google";0.008928572
+"terra uai rad.msn view.atdmt.com";"google";0.005952381
+"terra uai rad.msn yahoo";"google";0.008928572
+"terra uai youtube";"google ad.doubleclick.net view.atdmt.com";0.0029761905
+"terra view.atdmt.com bn.uol.com.br ad.yieldmanager.com ad.doubleclick.net";"google yahoo";0.005952381
+"terra view.atdmt.com bn.uol.com.br uai ad.doubleclick.net";"google yahoo";0.005952381
+"uai ad.doubleclick.net ad.yieldmanager.com globo orkut";"google";0.005952381
+"uai ad.doubleclick.net ad.yieldmanager.com globo terra";"google";0.010416667
+"uai ad.doubleclick.net ad.yieldmanager.com gstatic globo";"orkut google yahoo";0.0029761905
+"uai ad.doubleclick.net bn.uol.com.br view.atdmt.com rad.msn";"google";0.004464286
+"uai ad.doubleclick.net ceipmsn view.atdmt.com rad.msn";"google terra";0.0029761905
+"uai ad.doubleclick.net globo bn.uol.com.br ceipmsn";"google";0.005952381
+"uai ad.doubleclick.net globo bn.uol.com.br yahoo";"google";0.014880952
+"uai ad.doubleclick.net orkut gstatic";"google yahoo";0.007440476
+"uai ad.doubleclick.net oss-content.securestudies";"google terra ad.yieldmanager.com ceipmsn yahoo";0.0014880953
+"uai ad.doubleclick.net view.atdmt.com bn.uol.com.br yahoo gstatic";"orkut youtube google rad.msn ad.yieldmanager.com";0.0014880953
+"uai ad.doubleclick.net view.atdmt.com yahoo bn.uol.com.br";"google";0.010416667
+"uai ad.doubleclick.net view.atdmt.com youtube";"google";0.007440476
+"uai ad.doubleclick.net yahoo globo orkut";"google";0.005952381
+"uai ad.doubleclick.net yahoo view.atdmt.com rad.msn";"google";0.005952381
+"uai ad.yieldmanager.com ad.doubleclick.net bn.uol.com.br gstatic";"orkut youtube google rad.msn view.atdmt.com yahoo";0.0014880953
+"uai ad.yieldmanager.com ad.doubleclick.net rad.msn";"google yahoo";0.005952381
+"uai ad.yieldmanager.com bn.uol.com.br terra";"google ad.doubleclick.net yahoo";0.007440476
+"uai ad.yieldmanager.com bn.uol.com.br view.atdmt.com ad.doubleclick.net";"google yahoo";0.005952381
+"uai ad.yieldmanager.com orkut ceipmsn";"globo google yahoo";0.004464286
+"uai ad.yieldmanager.com oss-content.securestudies";"google terra ad.doubleclick.net ceipmsn yahoo";0.0014880953
+"uai ad.yieldmanager.com view.atdmt.com bn.uol.com.br gstatic";"orkut youtube google rad.msn ad.doubleclick.net yahoo";0.0014880953
+"uai ad.yieldmanager.com yahoo globo orkut";"google";0.013392857
+"uai ad.yieldmanager.com youtube ad.doubleclick.net";"google view.atdmt.com yahoo";0.0029761905
+"uai bn.uol.com.br ad.yieldmanager.com ad.doubleclick.net";"google yahoo";0.011904762
+"uai bn.uol.com.br ad.yieldmanager.com globo rad.msn";"google yahoo";0.007440476
+"uai bn.uol.com.br ad.yieldmanager.com orkut terra";"google ad.doubleclick.net view.atdmt.com yahoo";0.0029761905
+"uai bn.uol.com.br ad.yieldmanager.com rad.msn";"google yahoo";0.008928572
+"uai bn.uol.com.br ceipmsn ad.doubleclick.net";"google";0.008928572
+"uai bn.uol.com.br ceipmsn view.atdmt.com";"google yahoo";0.005952381
+"uai bn.uol.com.br ceipmsn yahoo ad.doubleclick.net";"google";0.005952381
+"uai bn.uol.com.br rad.msn youtube";"view.atdmt.com";0.0029761905
+"uai bn.uol.com.br yahoo ad.yieldmanager.com view.atdmt.com";"google";0.008928572
+"uai bn.uol.com.br yahoo ceipmsn rad.msn";"google";0.004464286
+"uai bn.uol.com.br yahoo globo orkut";"google";0.007440476
+"uai bn.uol.com.br yahoo view.atdmt.com gstatic";"google rad.msn";0.0029761905
+"uai ceipmsn ad.doubleclick.net gstatic";"google bn.uol.com.br";0.0029761905
+"uai ceipmsn ad.yieldmanager.com google";"yahoo";0.010416667
+"uai ceipmsn bn.uol.com.br ad.doubleclick.net rad.msn";"google";0.004464286
+"uai ceipmsn bn.uol.com.br terra ad.doubleclick.net";"google yahoo";0.004464286
+"uai ceipmsn bn.uol.com.br terra yahoo";"google ad.doubleclick.net";0.004464286
+"uai ceipmsn orkut gstatic";"youtube google view.atdmt.com";0.0014880953
+"uai ceipmsn yahoo ad.doubleclick.net gstatic";"google terra bn.uol.com.br";0.0014880953
+"uai ceipmsn yahoo bn.uol.com.br globo";"google";0.007440476
+"uai ceipmsn yahoo gstatic";"google bn.uol.com.br";0.0029761905
+"uai ceipmsn youtube gstatic";"orkut google view.atdmt.com";0.0014880953
+"uai globo ad.doubleclick.net ad.yieldmanager.com yahoo";"google";0.014880952
+"uai globo ad.doubleclick.net bn.uol.com.br rad.msn";"google yahoo";0.005952381
+"uai globo ad.doubleclick.net gstatic";"google yahoo";0.005952381
+"uai globo ad.doubleclick.net rad.msn";"google";0.008928572
+"uai globo ad.doubleclick.net yahoo ceipmsn";"google";0.005952381
+"uai globo ad.yieldmanager.com ceipmsn";"google yahoo";0.007440476
+"uai globo bn.uol.com.br rad.msn";"google";0.013392857
+"uai globo ceipmsn ad.doubleclick.net";"google";0.007440476
+"uai globo gstatic ad.yieldmanager.com";"google yahoo";0.005952381
+"uai globo gstatic bn.uol.com.br";"google yahoo";0.0029761905
+"uai globo gstatic yahoo";"google";0.008928572
+"uai globo gstatic youtube";"orkut google";0.0014880953
+"uai globo orkut ad.doubleclick.net";"google";0.008928572
+"uai globo orkut ad.yieldmanager.com";"google";0.014880952
+"uai globo orkut bn.uol.com.br";"google";0.008928572
+"uai globo orkut rad.msn";"google";0.005952381
+"uai globo orkut terra";"google ad.doubleclick.net yahoo";0.004464286
+"uai globo terra ceipmsn";"google bn.uol.com.br";0.004464286
+"uai globo terra yahoo bn.uol.com.br";"google";0.008928572
+"uai globo view.atdmt.com rad.msn";"google";0.005952381
+"uai globo yahoo rad.msn";"google";0.011904762
+"uai google ad.yieldmanager.com globo terra";"ad.doubleclick.net";0.010416667
+"uai google bn.uol.com.br youtube";"orkut view.atdmt.com yahoo";0.004464286
+"uai google view.atdmt.com globo terra";"ad.doubleclick.net";0.005952381
+"uai google youtube rad.msn";"ad.doubleclick.net view.atdmt.com";0.004464286
+"uai gstatic ad.doubleclick.net ad.yieldmanager.com";"orkut google yahoo";0.004464286
+"uai gstatic ad.doubleclick.net rad.msn";"google";0.007440476
+"uai gstatic ad.doubleclick.net yahoo";"google";0.011904762
+"uai gstatic ad.yieldmanager.com";"google yahoo";0.007440476
+"uai gstatic bn.uol.com.br ad.doubleclick.net";"google";0.007440476
+"uai gstatic bn.uol.com.br ceipmsn";"google";0.004464286
+"uai gstatic bn.uol.com.br rad.msn";"google";0.007440476
+"uai gstatic bn.uol.com.br yahoo";"google";0.007440476
+"uai gstatic ceipmsn rad.msn";"google bn.uol.com.br";0.0029761905
+"uai gstatic orkut ad.yieldmanager.com";"google ad.doubleclick.net yahoo";0.004464286
+"uai gstatic orkut terra";"google ad.doubleclick.net yahoo";0.0029761905
+"uai gstatic rad.msn yahoo";"google";0.007440476
+"uai gstatic view.atdmt.com ad.doubleclick.net";"google rad.msn";0.005952381
+"uai gstatic view.atdmt.com ceipmsn";"google";0.0029761905
+"uai gstatic view.atdmt.com rad.msn";"google";0.007440476
+"uai orkut ad.yieldmanager.com gstatic bn.uol.com.br";"youtube google rad.msn ad.doubleclick.net view.atdmt.com yahoo";0.0014880953
+"uai orkut bn.uol.com.br gstatic ad.doubleclick.net";"youtube google rad.msn view.atdmt.com ad.yieldmanager.com yahoo";0.0014880953
+"uai orkut bn.uol.com.br gstatic google";"youtube rad.msn ad.doubleclick.net view.atdmt.com ad.yieldmanager.com yahoo";0.0014880953
+"uai orkut bn.uol.com.br gstatic rad.msn";"youtube google ad.doubleclick.net view.atdmt.com ad.yieldmanager.com yahoo";0.0014880953
+"uai orkut bn.uol.com.br gstatic yahoo";"youtube google rad.msn ad.doubleclick.net view.atdmt.com ad.yieldmanager.com";0.0014880953
+"uai orkut bn.uol.com.br view.atdmt.com gstatic";"youtube google rad.msn ad.doubleclick.net ad.yieldmanager.com yahoo";0.0014880953
+"uai orkut bn.uol.com.br view.atdmt.com rad.msn ad.yieldmanager.com";"youtube gstatic google ad.doubleclick.net yahoo";0.0014880953
+"uai orkut bn.uol.com.br youtube";"google view.atdmt.com yahoo";0.004464286
+"uai orkut ceipmsn globo";"yahoo";0.007440476
+"uai orkut ceipmsn yahoo";"globo";0.007440476
+"uai orkut globo view.atdmt.com";"yahoo";0.007440476
+"uai orkut gstatic globo ad.doubleclick.net";"google ad.yieldmanager.com yahoo";0.0029761905
+"uai orkut gstatic globo ad.yieldmanager.com";"google ad.doubleclick.net yahoo";0.0029761905
+"uai orkut gstatic globo yahoo";"google ad.doubleclick.net ad.yieldmanager.com";0.0029761905
+"uai orkut terra ad.yieldmanager.com";"google yahoo";0.005952381
+"uai orkut view.atdmt.com ad.yieldmanager.com ad.doubleclick.net";"google yahoo";0.005952381
+"uai orkut view.atdmt.com bn.uol.com.br ad.yieldmanager.com";"google";0.007440476
+"uai orkut view.atdmt.com yahoo bn.uol.com.br";"google";0.010416667
+"uai orkut yahoo ad.yieldmanager.com view.atdmt.com";"google";0.010416667
+"uai oss-content.securestudies";"google";0.005952381
+"uai rad.msn bn.uol.com.br globo orkut";"google";0.004464286
+"uai rad.msn globo terra";"google ad.doubleclick.net";0.005952381
+"uai rad.msn yahoo globo orkut";"google";0.004464286
+"uai terra ceipmsn yahoo";"google ad.doubleclick.net";0.005952381
+"uai terra gstatic bn.uol.com.br";"google ad.doubleclick.net ceipmsn yahoo";0.0014880953
+"uai terra gstatic ceipmsn";"google ad.doubleclick.net bn.uol.com.br yahoo";0.0014880953
+"uai terra gstatic";"google ad.doubleclick.net yahoo";0.004464286
+"uai terra orkut bn.uol.com.br";"google yahoo";0.007440476
+"uai terra oss-content.securestudies";"google ad.doubleclick.net ad.yieldmanager.com ceipmsn yahoo";0.0014880953
+"uai terra rad.msn ad.yieldmanager.com";"google yahoo";0.004464286
+"uai terra rad.msn bn.uol.com.br";"google yahoo";0.007440476
+"uai terra rad.msn ceipmsn";"google ad.doubleclick.net";0.004464286
+"uai terra view.atdmt.com bn.uol.com.br";"google yahoo";0.007440476
+"uai view.atdmt.com ad.yieldmanager.com orkut terra";"google ad.doubleclick.net bn.uol.com.br yahoo";0.0029761905
+"uai view.atdmt.com ceipmsn globo";"yahoo";0.005952381
+"uai view.atdmt.com globo ceipmsn orkut";"yahoo";0.0029761905
+"uai view.atdmt.com terra ad.yieldmanager.com bn.uol.com.br";"google ad.doubleclick.net yahoo";0.004464286
+"uai view.atdmt.com terra orkut";"google bn.uol.com.br yahoo";0.005952381
+"uai view.atdmt.com yahoo ceipmsn orkut";"globo";0.0029761905
+"uai yahoo ad.doubleclick.net youtube";"google";0.007440476
+"uai yahoo bn.uol.com.br ad.doubleclick.net gstatic";"google";0.004464286
+"uai yahoo bn.uol.com.br ad.doubleclick.net rad.msn";"google";0.008928572
+"uai yahoo bn.uol.com.br youtube";"orkut google view.atdmt.com";0.004464286
+"uai yahoo ceipmsn ad.doubleclick.net";"google";0.008928572
+"uai yahoo ceipmsn oss-content.securestudies";"google terra ad.doubleclick.net ad.yieldmanager.com";0.0014880953
+"uai yahoo orkut gstatic";"google ad.doubleclick.net";0.007440476
+"uai youtube bn.uol.com.br ceipmsn";"globo orkut google view.atdmt.com ad.yieldmanager.com yahoo";0.0014880953
+"uai youtube bn.uol.com.br globo";"orkut google view.atdmt.com ad.yieldmanager.com ceipmsn yahoo";0.0014880953
+"uai youtube ceipmsn";"orkut google";0.004464286
+"uai youtube globo";"google";0.011904762
+"uai youtube view.atdmt.com ceipmsn ad.yieldmanager.com";"globo orkut google bn.uol.com.br yahoo";0.0014880953
+"uai youtube view.atdmt.com ceipmsn yahoo";"globo orkut google bn.uol.com.br ad.yieldmanager.com";0.0014880953
+"view.atdmt.com ad.doubleclick.net globo youtube";"uai google";0.0029761905
+"view.atdmt.com ad.doubleclick.net gstatic";"google";0.008928572
+"view.atdmt.com ad.doubleclick.net rad.msn uai";"google";0.011904762
+"view.atdmt.com ad.doubleclick.net youtube";"google";0.008928572
+"view.atdmt.com ad.yieldmanager.com ad.doubleclick.net rad.msn";"google yahoo";0.007440476
+"view.atdmt.com ad.yieldmanager.com bn.uol.com.br youtube orkut";"google yahoo";0.004464286
+"view.atdmt.com ad.yieldmanager.com ceipmsn bn.uol.com.br";"google yahoo";0.005952381
+"view.atdmt.com ad.yieldmanager.com ceipmsn rad.msn";"google";0.0029761905
+"view.atdmt.com ad.yieldmanager.com google globo ad.doubleclick.net";"yahoo";0.011904762
+"view.atdmt.com ad.yieldmanager.com rad.msn ad.doubleclick.net uai";"google yahoo";0.004464286
+"view.atdmt.com ad.yieldmanager.com youtube ad.doubleclick.net";"uai google yahoo";0.0029761905
+"view.atdmt.com ad.yieldmanager.com youtube uai";"google yahoo";0.005952381
+"view.atdmt.com ad.yieldmanager.com youtube";"google yahoo";0.008928572
+"view.atdmt.com bn.uol.com.br rad.msn gstatic";"google";0.007440476
+"view.atdmt.com bn.uol.com.br yahoo ad.doubleclick.net";"google";0.013392857
+"view.atdmt.com ceipmsn orkut uai google";"youtube";0.0029761905
+"view.atdmt.com ceipmsn rad.msn gstatic";"google";0.0029761905
+"view.atdmt.com ceipmsn rad.msn uai";"google";0.004464286
+"view.atdmt.com ceipmsn youtube orkut";"uai google";0.0029761905
+"view.atdmt.com ceipmsn youtube uai";"orkut google";0.0029761905
+"view.atdmt.com globo google youtube";"uai";0.005952381
+"view.atdmt.com globo gstatic ad.doubleclick.net";"orkut google ad.yieldmanager.com yahoo";0.0029761905
+"view.atdmt.com globo gstatic ad.yieldmanager.com";"orkut google ad.doubleclick.net yahoo";0.0029761905
+"view.atdmt.com globo orkut bn.uol.com.br ad.doubleclick.net";"google terra ad.yieldmanager.com yahoo";0.0029761905
+"view.atdmt.com globo uai orkut bn.uol.com.br";"google ad.yieldmanager.com yahoo";0.0029761905
+"view.atdmt.com globo uai youtube";"google";0.005952381
+"view.atdmt.com google bn.uol.com.br ceipmsn";"yahoo";0.010416667
+"view.atdmt.com gstatic ad.yieldmanager.com ad.doubleclick.net";"orkut google yahoo";0.004464286
+"view.atdmt.com gstatic ceipmsn google ad.yieldmanager.com";"youtube bn.uol.com.br yahoo";0.0014880953
+"view.atdmt.com gstatic orkut uai";"google";0.005952381
+"view.atdmt.com gstatic uai globo";"orkut google rad.msn ad.doubleclick.net ad.yieldmanager.com yahoo";0.0014880953
+"view.atdmt.com gstatic uai";"google";0.008928572
+"view.atdmt.com orkut ad.yieldmanager.com gstatic";"google yahoo";0.007440476
+"view.atdmt.com orkut bn.uol.com.br ad.yieldmanager.com gstatic";"google yahoo";0.005952381
+"view.atdmt.com orkut bn.uol.com.br gstatic";"google yahoo";0.007440476
+"view.atdmt.com orkut uai bn.uol.com.br rad.msn";"google yahoo";0.0029761905
+"view.atdmt.com orkut uai google ad.yieldmanager.com rad.msn";"yahoo";0.004464286
+"view.atdmt.com orkut uai yahoo ad.yieldmanager.com rad.msn";"google";0.004464286
+"view.atdmt.com oss-content.securestudies";"google";0.0029761905
+"view.atdmt.com rad.msn ad.doubleclick.net ad.yieldmanager.com gstatic";"orkut uai google yahoo";0.0029761905
+"view.atdmt.com rad.msn ad.doubleclick.net ad.yieldmanager.com orkut";"uai gstatic google yahoo";0.0029761905
+"view.atdmt.com rad.msn ad.yieldmanager.com bn.uol.com.br";"google yahoo";0.010416667
+"view.atdmt.com rad.msn ad.yieldmanager.com gstatic";"orkut google yahoo";0.005952381
+"view.atdmt.com rad.msn bn.uol.com.br globo";"google ad.yieldmanager.com yahoo";0.0029761905
+"view.atdmt.com rad.msn globo gstatic";"orkut uai google ad.doubleclick.net ad.yieldmanager.com yahoo";0.0014880953
+"view.atdmt.com rad.msn globo orkut ad.doubleclick.net";"uai gstatic google ad.yieldmanager.com yahoo";0.0014880953
+"view.atdmt.com terra bn.uol.com.br gstatic";"globo orkut google ad.doubleclick.net ad.yieldmanager.com yahoo";0.0014880953
+"view.atdmt.com terra bn.uol.com.br";"yahoo";0.013392857
+"view.atdmt.com terra google rad.msn bn.uol.com.br";"uai yahoo";0.0029761905
+"view.atdmt.com terra google rad.msn yahoo";"uai bn.uol.com.br";0.0029761905
+"view.atdmt.com terra gstatic";"orkut google ad.doubleclick.net";0.0029761905
+"view.atdmt.com terra uai rad.msn bn.uol.com.br";"google yahoo";0.0029761905
+"view.atdmt.com terra uai rad.msn yahoo";"google bn.uol.com.br";0.0029761905
+"view.atdmt.com terra yahoo gstatic";"globo orkut google ad.doubleclick.net bn.uol.com.br ad.yieldmanager.com";0.0014880953
+"view.atdmt.com terra youtube";"google ad.doubleclick.net";0.004464286
+"view.atdmt.com uai bn.uol.com.br orkut ad.doubleclick.net globo";"google terra ad.yieldmanager.com yahoo";0.0014880953
+"view.atdmt.com uai gstatic ad.yieldmanager.com";"orkut google rad.msn ad.doubleclick.net yahoo";0.0029761905
+"view.atdmt.com uai orkut ad.yieldmanager.com youtube";"google yahoo";0.004464286
+"view.atdmt.com uai orkut yahoo ad.yieldmanager.com bn.uol.com.br";"google";0.005952381
+"view.atdmt.com uai terra ad.doubleclick.net orkut";"google bn.uol.com.br yahoo";0.004464286
+"view.atdmt.com uai terra globo";"ad.doubleclick.net";0.007440476
+"view.atdmt.com uai terra orkut globo";"google ad.doubleclick.net bn.uol.com.br ad.yieldmanager.com yahoo";0.0014880953
+"view.atdmt.com yahoo bn.uol.com.br ceipmsn";"google";0.010416667
+"view.atdmt.com yahoo ceipmsn rad.msn";"google";0.004464286
+"view.atdmt.com yahoo rad.msn gstatic orkut";"google";0.007440476
+"view.atdmt.com yahoo rad.msn gstatic";"google";0.008928572
+"view.atdmt.com yahoo uai terra globo";"ad.doubleclick.net";0.005952381
+"view.atdmt.com youtube ad.yieldmanager.com bn.uol.com.br";"google yahoo";0.005952381
+"view.atdmt.com youtube ad.yieldmanager.com ceipmsn";"google bn.uol.com.br yahoo";0.0029761905
+"view.atdmt.com youtube bn.uol.com.br ceipmsn";"google ad.yieldmanager.com yahoo";0.0029761905
+"view.atdmt.com youtube yahoo ceipmsn";"google bn.uol.com.br ad.yieldmanager.com";0.0029761905
+"yahoo ad.doubleclick.net ceipmsn ad.yieldmanager.com uai";"google terra";0.0029761905
+"yahoo ad.doubleclick.net gstatic";"google";0.017857144
+"yahoo ad.doubleclick.net orkut uai";"google";0.013392857
+"yahoo ad.doubleclick.net oss-content.securestudies";"google terra ad.yieldmanager.com";0.0029761905
+"yahoo ad.doubleclick.net rad.msn globo";"google";0.010416667
+"yahoo ad.doubleclick.net terra gstatic";"google";0.008928572
+"yahoo ad.doubleclick.net youtube";"google";0.008928572
+"yahoo ad.yieldmanager.com bn.uol.com.br orkut globo";"google";0.010416667
+"yahoo ad.yieldmanager.com youtube orkut globo";"google";0.005952381
+"yahoo ad.yieldmanager.com youtube orkut";"google";0.017857144
+"yahoo bn.uol.com.br orkut globo";"google";0.014880952
+"yahoo bn.uol.com.br view.atdmt.com rad.msn uai";"google";0.005952381
+"yahoo bn.uol.com.br view.atdmt.com youtube";"google";0.007440476
+"yahoo bn.uol.com.br youtube";"google";0.014880952
+"yahoo ceipmsn bn.uol.com.br globo";"google";0.011904762
+"yahoo globo uai orkut youtube";"google ad.yieldmanager.com";0.004464286
+"yahoo globo uai youtube";"google";0.007440476
+"yahoo google ad.doubleclick.net terra view.atdmt.com globo";"ad.yieldmanager.com";0.007440476
+"yahoo gstatic uai";"google";0.016369049
+"yahoo gstatic youtube google globo";"orkut";0.0029761905
+"yahoo gstatic youtube orkut globo";"google";0.0029761905
+"yahoo orkut terra google globo";"ad.doubleclick.net";0.007440476
+"yahoo orkut view.atdmt.com ceipmsn rad.msn";"globo google";0.0014880953
+"yahoo oss-content.securestudies bn.uol.com.br";"google";0.0029761905
+"yahoo oss-content.securestudies uai";"google";0.004464286
+"yahoo rad.msn ad.doubleclick.net ceipmsn google";"globo uai terra bn.uol.com.br";0.0029761905
+"yahoo rad.msn ad.doubleclick.net ceipmsn uai";"globo google terra bn.uol.com.br";0.0029761905
+"yahoo rad.msn ad.yieldmanager.com gstatic orkut";"google view.atdmt.com";0.005952381
+"yahoo rad.msn bn.uol.com.br youtube view.atdmt.com";"orkut gstatic google ad.yieldmanager.com";0.0029761905
+"yahoo terra orkut gstatic";"google ad.doubleclick.net";0.005952381
+"yahoo terra orkut view.atdmt.com ad.yieldmanager.com";"google";0.005952381
+"yahoo terra oss-content.securestudies";"google ad.doubleclick.net ad.yieldmanager.com";0.0029761905
+"yahoo terra youtube";"google ad.doubleclick.net";0.0029761905
+"yahoo uai ceipmsn youtube";"globo orkut google ad.yieldmanager.com";0.0029761905
+"yahoo uai google ceipmsn orkut";"globo";0.005952381
+"yahoo uai youtube terra";"orkut google ad.doubleclick.net view.atdmt.com bn.uol.com.br";0.0014880953
+"yahoo view.atdmt.com ad.doubleclick.net gstatic";"orkut google";0.005952381
+"yahoo view.atdmt.com ceipmsn uai rad.msn";"google bn.uol.com.br";0.0029761905
+"yahoo view.atdmt.com rad.msn ceipmsn globo";"google";0.0029761905
+"yahoo view.atdmt.com uai rad.msn ad.doubleclick.net bn.uol.com.br";"google ad.yieldmanager.com";0.0029761905
+"yahoo view.atdmt.com youtube gstatic google orkut";"rad.msn";0.004464286
+"yahoo view.atdmt.com youtube rad.msn";"orkut gstatic google";0.004464286
+"yahoo view.atdmt.com youtube terra";"orkut uai google ad.doubleclick.net bn.uol.com.br";0.0014880953
+"yahoo youtube bn.uol.com.br ad.yieldmanager.com";"google";0.011904762
+"yahoo youtube bn.uol.com.br ceipmsn";"google";0.004464286
+"yahoo youtube globo view.atdmt.com";"uai google ad.yieldmanager.com";0.004464286
+"youtube ad.doubleclick.net ad.yieldmanager.com gstatic";"orkut uai google rad.msn view.atdmt.com bn.uol.com.br yahoo";0.0014880953
+"youtube ad.doubleclick.net ad.yieldmanager.com orkut";"uai gstatic google rad.msn view.atdmt.com bn.uol.com.br yahoo";0.0014880953
+"youtube ad.doubleclick.net ad.yieldmanager.com rad.msn";"orkut uai gstatic google view.atdmt.com bn.uol.com.br yahoo";0.0014880953
+"youtube ad.doubleclick.net bn.uol.com.br ad.yieldmanager.com";"orkut uai gstatic google rad.msn view.atdmt.com yahoo";0.0014880953
+"youtube ad.doubleclick.net bn.uol.com.br gstatic";"orkut uai google rad.msn view.atdmt.com ad.yieldmanager.com yahoo";0.0014880953
+"youtube ad.doubleclick.net bn.uol.com.br rad.msn";"orkut uai gstatic google view.atdmt.com ad.yieldmanager.com yahoo";0.0014880953
+"youtube ad.doubleclick.net globo";"google";0.007440476
+"youtube ad.doubleclick.net gstatic";"orkut google view.atdmt.com";0.004464286
+"youtube ad.doubleclick.net uai";"google";0.010416667
+"youtube ad.yieldmanager.com ceipmsn ad.doubleclick.net";"globo google terra yahoo";0.0014880953
+"youtube ad.yieldmanager.com globo";"google";0.010416667
+"youtube ad.yieldmanager.com view.atdmt.com gstatic";"google bn.uol.com.br yahoo";0.004464286
+"youtube ad.yieldmanager.com yahoo gstatic orkut";"google";0.005952381
+"youtube bn.uol.com.br gstatic orkut";"google yahoo";0.005952381
+"youtube bn.uol.com.br view.atdmt.com gstatic";"google ad.yieldmanager.com yahoo";0.004464286
+"youtube ceipmsn ad.yieldmanager.com";"yahoo";0.008928572
+"youtube ceipmsn globo";"google yahoo";0.005952381
+"youtube globo ad.yieldmanager.com ceipmsn";"google yahoo";0.004464286
+"youtube globo ceipmsn ad.doubleclick.net";"google terra ad.yieldmanager.com yahoo";0.0014880953
+"youtube gstatic ad.yieldmanager.com yahoo";"google";0.007440476
+"youtube gstatic bn.uol.com.br ad.yieldmanager.com orkut";"google yahoo";0.004464286
+"youtube gstatic bn.uol.com.br";"google yahoo";0.007440476
+"youtube gstatic ceipmsn ad.yieldmanager.com";"google view.atdmt.com bn.uol.com.br yahoo";0.0014880953
+"youtube gstatic ceipmsn bn.uol.com.br view.atdmt.com";"google ad.yieldmanager.com yahoo";0.0014880953
+"youtube gstatic ceipmsn globo";"orkut google bn.uol.com.br yahoo";0.0014880953
+"youtube gstatic ceipmsn yahoo orkut";"globo google bn.uol.com.br";0.0014880953
+"youtube gstatic ceipmsn yahoo view.atdmt.com";"google bn.uol.com.br ad.yieldmanager.com";0.0014880953
+"youtube gstatic view.atdmt.com ceipmsn";"google";0.0029761905
+"youtube orkut ad.yieldmanager.com view.atdmt.com";"google yahoo";0.005952381
+"youtube orkut bn.uol.com.br view.atdmt.com";"google yahoo";0.005952381
+"youtube rad.msn uai";"view.atdmt.com";0.005952381
+"youtube terra ad.doubleclick.net";"google";0.005952381
+"youtube terra ad.yieldmanager.com";"globo google ad.doubleclick.net ceipmsn yahoo";0.0014880953
+"youtube terra ceipmsn ad.doubleclick.net";"globo google ad.yieldmanager.com yahoo";0.0014880953
+"youtube terra ceipmsn google";"globo ad.doubleclick.net ad.yieldmanager.com yahoo";0.0014880953
+"youtube terra globo ceipmsn";"google ad.doubleclick.net ad.yieldmanager.com yahoo";0.0014880953
+"youtube terra globo yahoo";"google ad.doubleclick.net ad.yieldmanager.com ceipmsn";0.0014880953
+"youtube terra gstatic";"orkut google ad.doubleclick.net view.atdmt.com";0.0014880953
+"youtube uai ad.doubleclick.net globo ad.yieldmanager.com";"google view.atdmt.com yahoo";0.0014880953
+"youtube uai ad.yieldmanager.com gstatic";"orkut google rad.msn ad.doubleclick.net view.atdmt.com bn.uol.com.br yahoo";0.0014880953
+"youtube uai ad.yieldmanager.com rad.msn";"orkut gstatic google ad.doubleclick.net view.atdmt.com bn.uol.com.br yahoo";0.0014880953
+"youtube uai bn.uol.com.br gstatic";"orkut google rad.msn ad.doubleclick.net view.atdmt.com ad.yieldmanager.com yahoo";0.0014880953
+"youtube uai bn.uol.com.br rad.msn google";"orkut gstatic ad.doubleclick.net view.atdmt.com ad.yieldmanager.com yahoo";0.0014880953
+"youtube uai bn.uol.com.br rad.msn orkut";"gstatic google ad.doubleclick.net view.atdmt.com ad.yieldmanager.com yahoo";0.0014880953
+"youtube uai bn.uol.com.br rad.msn yahoo";"orkut gstatic google ad.doubleclick.net view.atdmt.com ad.yieldmanager.com";0.0014880953
+"youtube uai bn.uol.com.br";"view.atdmt.com";0.005952381
+"youtube uai gstatic";"orkut google";0.005952381
+"youtube view.atdmt.com ad.doubleclick.net globo ad.yieldmanager.com";"uai google yahoo";0.0014880953
+"youtube view.atdmt.com ad.doubleclick.net globo yahoo";"uai google ad.yieldmanager.com";0.0014880953
+"youtube view.atdmt.com ceipmsn gstatic orkut";"uai google";0.0014880953
+"youtube yahoo ad.yieldmanager.com globo";"google";0.008928572
+"youtube yahoo ceipmsn ad.doubleclick.net";"globo google terra ad.yieldmanager.com";0.0014880953
+"youtube yahoo ceipmsn terra";"globo google ad.doubleclick.net ad.yieldmanager.com";0.0014880953

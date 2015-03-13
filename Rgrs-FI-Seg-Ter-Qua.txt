@@ -1,0 +1,8 @@
+"ad.yieldmanager.com bn.uol.com.br orkut gstatic";"google yahoo" 
+"bn.uol.com.br ad.yieldmanager.com gstatic google";"yahoo" 
+"bn.uol.com.br yahoo rad.msn gstatic";"google" 
+"bn.uol.com.br yahoo view.atdmt.com gstatic";"google" 
+"google ad.yieldmanager.com rad.msn uai";"yahoo" 
+"orkut gstatic ad.doubleclick.net yahoo";"google" 
+"orkut gstatic rad.msn yahoo";"google" 
+"uai ad.doubleclick.net view.atdmt.com yahoo bn.uol.com.br";"google" 
